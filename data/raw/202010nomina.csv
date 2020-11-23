@@ -1,0 +1,1293 @@
+fecha,remision,origen,destino,placa,kilometros
+1/3/2020,01R71081915,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-111,24
+1/3/2020,06R70122569,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-111,62
+1/3/2020,06R70122574,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-111,62
+1/3/2020,06R70122584,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-111,62
+1/3/2020,14R70225596,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-111,61
+1/3/2020,14R70225617,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-111,29
+1/3/2020,14R70225637,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-111,61
+2/3/2020,08R70012015,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-111,21
+2/3/2020,14R70225644,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-111,20
+2/3/2020,14R70225666,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-111,29
+3/3/2020,01R71082081,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-111,24
+3/3/2020,06R70122702,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-111,62
+3/3/2020,14R70225636,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-111,61
+4/3/2020,14R70225723,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-111,59
+4/3/2020,14R70225774,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-111,29
+4/3/2020,94R70054569,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-111,59
+5/3/2020,01R71082312,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-111,24
+6/3/2020,06R70122779,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-111,62
+6/3/2020,08R70012046,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-111,21
+6/3/2020,14R70225815,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-111,20
+6/3/2020,14R70225837,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-111,61
+6/3/2020,14R70225928,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-111,29
+7/3/2020,01R71082543,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-111,24
+7/3/2020,01R71082615,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-111,24
+7/3/2020,08R70012049,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-111,21
+7/3/2020,08R70012056,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-111,21
+7/3/2020,14R70225879,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-111,20
+7/3/2020,14R70225880,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-111,20
+7/3/2020,14R70225918,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-111,29
+8/3/2020,01R71082624,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-111,36
+8/3/2020,01R71082657,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-111,24
+8/3/2020,01R71082674,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-111,24
+8/3/2020,14R70225973,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-111,29
+8/3/2020,14R70225982,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-111,29
+8/3/2020,14R70225984,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-111,29
+1/3/2020,01R71081850,01 - PLANTA SOYAPANGO              ,11 - CHALATENANGO                  ,C-119-460,52
+1/3/2020,01R71081917,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-460,24
+1/3/2020,04R70261001,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-119-460,55
+1/3/2020,06R70122577,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-460,62
+1/3/2020,14R70225577,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+1/3/2020,14R70225578,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-460,61
+1/3/2020,14R70225616,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+1/3/2020,14R70225629,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-119-460,54
+2/3/2020,01R71081965,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-460,24
+2/3/2020,11R70057078,11 - CHALATENANGO                  ,14 - NIXAPA                        ,C-119-460,44
+2/3/2020,14R70225516,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+2/3/2020,14R70225692,14 - NIXAPA                        ,AW - WALLMART                      ,C-119-460,12
+3/3/2020,01R71082109,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-460,19
+3/3/2020,14R70225648,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+3/3/2020,14R70225736,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+3/3/2020,14R70225752,14 - NIXAPA                        ,AB - RANSA                         ,C-119-460,14
+3/3/2020,95R70007233,AW - WALLMART                      ,14 - NIXAPA                        ,C-119-460,8
+4/3/2020,01R71082119,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-460,19
+4/3/2020,01R71082216,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-460,24
+4/3/2020,14R70225767,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+4/3/2020,14R70225775,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+4/3/2020,95R70007243,AW - WALLMART                      ,14 - NIXAPA                        ,C-119-460,8
+5/3/2020,01R71082308,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-460,36
+5/3/2020,01R71082416,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-460,24
+5/3/2020,14R70225875,14 - NIXAPA                        ,TB - TLA,C-119-460,5
+5/3/2020,90R70017472,TB - TLA,01 - PLANTA SOYAPANGO              ,C-119-460,20
+5/3/2020,93R70067445,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-119-460,57
+6/3/2020,01R71082386,01 - PLANTA SOYAPANGO              ,31 - DISTR. AGUA Y JUGO            ,C-119-460,4
+6/3/2020,14R70225841,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+6/3/2020,14R70225900,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-119-460,54
+6/3/2020,14R70225943,14 - NIXAPA                        ,TB - TLA,C-119-460,5
+6/3/2020,31R70359655,31 - DISTR. AGUA Y JUGO            ,14 - NIXAPA                        ,C-119-460,20
+6/3/2020,90R70017477,TB - TLA,14 - NIXAPA                        ,C-119-460,9.5
+7/3/2020,01R71082557,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-460,24
+7/3/2020,04R70261229,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-119-460,55
+7/3/2020,04R70261239,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-119-460,55
+7/3/2020,14R70225847,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+7/3/2020,14R70225961,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-119-460,54
+7/3/2020,14R70226001,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+7/3/2020,14R70226045,14 - NIXAPA                        ,AW - WALLMART                      ,C-119-460,12
+8/3/2020,01R71082641,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-460,24
+8/3/2020,01R71082662,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-460,24
+8/3/2020,01R71082681,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-460,24
+8/3/2020,14R70225653,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+8/3/2020,14R70225991,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+8/3/2020,14R70225993,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-460,29
+1/3/2020,01R71081894,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-458,24
+1/3/2020,01R71081921,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-458,24
+1/3/2020,01R71081941,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-458,24
+1/3/2020,01R71081956,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-458,24
+1/3/2020,06R70122578,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-458,62
+1/3/2020,06R70122586,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-458,62
+1/3/2020,14R70225520,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+1/3/2020,14R70225568,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-458,61
+1/3/2020,14R70225583,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+1/3/2020,14R70225600,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+1/3/2020,14R70225603,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+1/3/2020,14R70225633,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-458,61
+2/3/2020,01R71081963,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-458,24
+2/3/2020,14R70225465,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+2/3/2020,14R70225662,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+2/3/2020,14R70225671,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-458,59
+2/3/2020,94R70054507,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-458,59
+3/3/2020,01R71082102,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-458,24
+3/3/2020,14R70225743,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-458,59
+3/3/2020,94R70054546,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-458,59
+4/3/2020,14R70225699,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-458,59
+4/3/2020,14R70225813,14 - NIXAPA                        ,92 - OPERADOR LOGISTICO            ,C-119-458,19
+4/3/2020,92R70009537,92 - OPERADOR LOGISTICO            ,01 - PLANTA SOYAPANGO              ,C-119-458,18
+4/3/2020,94R70054568,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-458,59
+5/3/2020,01R71082274,01 - PLANTA SOYAPANGO              ,11 - CHALATENANGO                  ,C-119-458,52
+5/3/2020,11R70057105,11 - CHALATENANGO                  ,14 - NIXAPA                        ,C-119-458,44
+6/3/2020,08R70012047,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-458,21
+6/3/2020,14R70225814,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-458,20
+6/3/2020,14R70225925,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+7/3/2020,01R71082465,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-458,19
+7/3/2020,01R71082549,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-458,24
+7/3/2020,14R70225923,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+7/3/2020,14R70225990,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+7/3/2020,14R70226050,14 - NIXAPA                        ,AB - RANSA                         ,C-119-458,14
+7/3/2020,95R70007262,AW - WALLMART                      ,14 - NIXAPA                        ,C-119-458,8
+8/3/2020,01R71082645,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-458,24
+8/3/2020,01R71082669,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-458,24
+8/3/2020,01R71082686,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-458,24
+8/3/2020,14R70225931,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+8/3/2020,14R70225985,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+8/3/2020,14R70225987,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-458,29
+1/3/2020,01R71081887,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-464,24
+1/3/2020,01R71081910,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-464,24
+1/3/2020,01R71081933,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-464,24
+1/3/2020,01R71081954,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-464,24
+1/3/2020,04R70260998,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-119-464,55
+1/3/2020,14R70225468,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-464,29
+1/3/2020,14R70225480,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-464,29
+1/3/2020,14R70225598,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-464,29
+1/3/2020,14R70225607,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-464,29
+1/3/2020,14R70225649,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-119-464,54
+2/3/2020,01R71081960,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-464,24
+2/3/2020,14R70225572,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-464,29
+2/3/2020,14R70225592,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-464,59
+2/3/2020,14R70225620,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-119-464,54
+2/3/2020,94R70054503,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-464,59
+3/3/2020,01R71082110,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-464,19
+3/3/2020,04R70261174,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-119-464,55
+3/3/2020,14R70225719,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-464,29
+3/3/2020,14R70225740,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-464,29
+3/3/2020,95R70007235,AW - WALLMART                      ,14 - NIXAPA                        ,C-119-464,8
+4/3/2020,01R71082211,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-464,24
+5/3/2020,01R71082226,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-464,19
+5/3/2020,04R70261210,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-119-464,55
+5/3/2020,14R70225829,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-119-464,54
+5/3/2020,14R70225859,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-464,29
+5/3/2020,95R70007247,AW - WALLMART                      ,14 - NIXAPA                        ,C-119-464,8
+6/3/2020,06R70122775,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-464,62
+6/3/2020,14R70225835,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-464,61
+7/3/2020,01R71082466,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-464,19
+7/3/2020,14R70225924,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-464,29
+7/3/2020,95R70007263,AW - WALLMART                      ,14 - NIXAPA                        ,C-119-464,8
+1/3/2020,01R71081913,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-468,24
+1/3/2020,04R70261000,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-119-468,55
+1/3/2020,06R70122571,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-468,62
+1/3/2020,06R70122576,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-468,62
+1/3/2020,14R70225453,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-468,61
+1/3/2020,14R70225587,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+1/3/2020,14R70225627,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-119-468,54
+2/3/2020,01R71082010,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-468,24
+2/3/2020,14R70225584,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+2/3/2020,14R70225663,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+3/3/2020,01R71082089,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-468,36
+3/3/2020,08R70012024,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-468,21
+3/3/2020,14R70225725,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+3/3/2020,14R70225730,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-468,20
+3/3/2020,93R70067429,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-119-468,57
+4/3/2020,01R71082213,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-468,24
+4/3/2020,01R71082250,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-468,24
+4/3/2020,06R70122735,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-468,62
+4/3/2020,14R70225710,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-468,61
+4/3/2020,14R70225772,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+5/3/2020,01R71082224,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-468,19
+5/3/2020,01R71082324,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-468,24
+5/3/2020,01R71082389,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-468,24
+5/3/2020,14R70225779,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+5/3/2020,14R70225780,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+5/3/2020,14R70225789,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+5/3/2020,14R70225862,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+5/3/2020,95R70007246,AW - WALLMART                      ,14 - NIXAPA                        ,C-119-468,8
+6/3/2020,01R71082378,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-468,19
+6/3/2020,01R71082439,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-468,24
+6/3/2020,14R70225647,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+6/3/2020,14R70225854,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+6/3/2020,95R70007254,AW - WALLMART                      ,14 - NIXAPA                        ,C-119-468,8
+7/3/2020,01R71082528,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-468,24
+7/3/2020,04R70261237,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-119-468,55
+7/3/2020,06R70122790,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-468,62
+7/3/2020,14R70225907,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-468,61
+7/3/2020,14R70225962,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-119-468,54
+8/3/2020,01R71082667,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-468,24
+8/3/2020,01R71082689,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-468,24
+8/3/2020,14R70225914,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+8/3/2020,14R70225929,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+8/3/2020,14R70225933,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+8/3/2020,14R70225972,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-468,29
+1/3/2020,05R70239924,05 - SAN MIGUEL                    ,14 - NIXAPA                        ,C-119-471,138
+1/3/2020,14R70225512,14 - NIXAPA                        ,05 - SAN MIGUEL                    ,C-119-471,143
+2/3/2020,01R71082005,01 - PLANTA SOYAPANGO              ,92 - OPERADOR LOGISTICO            ,C-119-471,18
+2/3/2020,14R70225652,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-471,29
+2/3/2020,14R70225695,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-471,29
+2/3/2020,92R70009533,92 - OPERADOR LOGISTICO            ,14 - NIXAPA                        ,C-119-471,10
+3/3/2020,01R71082097,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-471,24
+3/3/2020,06R70122703,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-471,62
+3/3/2020,08R70012023,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-471,21
+3/3/2020,14R70225631,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-471,61
+3/3/2020,14R70225698,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-471,20
+3/3/2020,14R70225741,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-471,29
+4/3/2020,01R71082195,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-471,36
+4/3/2020,14R70225776,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-471,29
+4/3/2020,14R70225796,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-471,59
+4/3/2020,93R70067437,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-119-471,57
+4/3/2020,94R70054570,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-471,59
+5/3/2020,01R71082321,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-471,24
+5/3/2020,14R70225821,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-471,59
+5/3/2020,14R70225840,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-471,61
+5/3/2020,94R70054577,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-471,59
+6/3/2020,06R70122772,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-471,62
+6/3/2020,08R70012048,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-471,21
+6/3/2020,14R70225819,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-471,59
+6/3/2020,14R70225844,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-471,29
+6/3/2020,14R70225882,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-471,20
+6/3/2020,94R70054579,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-471,59
+7/3/2020,01R71082529,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-471,36
+7/3/2020,14R70225843,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-471,29
+7/3/2020,14R70225953,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-471,59
+7/3/2020,93R70067468,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-119-471,57
+7/3/2020,94R70054614,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-471,59
+8/3/2020,01R71082619,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-471,24
+8/3/2020,05R70240336,05 - SAN MIGUEL                    ,14 - NIXAPA                        ,C-119-471,138
+8/3/2020,14R70225889,14 - NIXAPA                        ,05 - SAN MIGUEL                    ,C-119-471,143
+1/3/2020,01R71081889,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+1/3/2020,14R70225575,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+2/3/2020,01R71082031,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+2/3/2020,08R70012011,08 - PASATIEMPO                    ,92 - OPERADOR LOGISTICO            ,C-119-477,36
+2/3/2020,14R70225638,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+2/3/2020,14R70225641,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-477,20
+2/3/2020,92R70009531,92 - OPERADOR LOGISTICO            ,14 - NIXAPA                        ,C-119-477,10
+3/3/2020,01R71081967,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-477,19
+3/3/2020,01R71082104,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+3/3/2020,01R71082135,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+3/3/2020,14R70225655,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+3/3/2020,14R70225664,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+3/3/2020,14R70225669,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+3/3/2020,95R70007237,AW - WALLMART                      ,01 - PLANTA SOYAPANGO              ,C-119-477,19
+4/3/2020,01R71082215,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+4/3/2020,01R71082239,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+4/3/2020,14R70225771,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+5/3/2020,01R71082278,01 - PLANTA SOYAPANGO              ,11 - CHALATENANGO                  ,C-119-477,52
+5/3/2020,01R71082390,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+5/3/2020,08R70012036,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-477,21
+5/3/2020,11R70057106,11 - CHALATENANGO                  ,14 - NIXAPA                        ,C-119-477,44
+5/3/2020,14R70225787,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+5/3/2020,14R70225818,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-477,20
+6/3/2020,01R71082451,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+6/3/2020,01R71082487,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-477,19
+6/3/2020,06R70122781,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-477,62
+6/3/2020,14R70225716,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+6/3/2020,14R70225860,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+6/3/2020,14R70225909,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-477,61
+7/3/2020,01R71082551,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+7/3/2020,01R71082578,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+7/3/2020,08R70012052,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-477,21
+7/3/2020,14R70225769,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+7/3/2020,14R70225855,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+7/3/2020,14R70225947,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-477,20
+7/3/2020,14R70225979,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+8/3/2020,01R71082632,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-477,24
+8/3/2020,05R70240337,05 - SAN MIGUEL                    ,14 - NIXAPA                        ,C-119-477,138
+8/3/2020,14R70225955,14 - NIXAPA                        ,05 - SAN MIGUEL                    ,C-119-477,143
+8/3/2020,14R70225970,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-477,29
+1/3/2020,01R71081911,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-502,24
+1/3/2020,01R71081928,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-502,24
+1/3/2020,01R71081950,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-502,24
+1/3/2020,06R70122582,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-502,62
+1/3/2020,14R70225407,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+1/3/2020,14R70225477,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+1/3/2020,14R70225518,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-502,61
+1/3/2020,14R70225602,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+2/3/2020,01R71081962,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-502,24
+2/3/2020,01R71082002,01 - PLANTA SOYAPANGO              ,92 - OPERADOR LOGISTICO            ,C-119-502,18
+2/3/2020,01R71082042,01 - PLANTA SOYAPANGO              ,11 - CHALATENANGO                  ,C-119-502,52
+2/3/2020,14R70225585,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+2/3/2020,14R70225613,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+2/3/2020,14R70225665,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+2/3/2020,92R70009529,92 - OPERADOR LOGISTICO            ,14 - NIXAPA                        ,C-119-502,10
+3/3/2020,08R70012021,08 - PASATIEMPO                    ,92 - OPERADOR LOGISTICO            ,C-119-502,36
+3/3/2020,11R70057087,11 - CHALATENANGO                  ,14 - NIXAPA                        ,C-119-502,44
+3/3/2020,14R70225642,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-502,20
+3/3/2020,14R70225735,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+3/3/2020,92R70009536,92 - OPERADOR LOGISTICO            ,14 - NIXAPA                        ,C-119-502,10
+4/3/2020,01R71082210,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-502,24
+4/3/2020,01R71082280,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-502,24
+4/3/2020,08R70012028,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-502,21
+4/3/2020,14R70225791,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-502,20
+4/3/2020,14R70225807,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+5/3/2020,01R71082309,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-502,36
+5/3/2020,14R70225728,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+5/3/2020,14R70225828,14 - NIXAPA                        ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-502,57
+5/3/2020,14R70225934,14 - NIXAPA                        ,AB - RANSA                         ,C-119-502,14
+5/3/2020,90R70017474,AB - RANSA                         ,14 - NIXAPA                        ,C-119-502,7
+5/3/2020,93R70067447,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-119-502,57
+5/3/2020,93R70067456,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-119-502,57
+6/3/2020,04R70261227,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-119-502,55
+6/3/2020,08R70012043,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-502,21
+6/3/2020,14R70225817,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-502,20
+6/3/2020,14R70225898,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-119-502,54
+7/3/2020,01R71082554,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-502,24
+7/3/2020,14R70225646,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+7/3/2020,14R70225905,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-502,61
+7/3/2020,14R70225951,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-502,59
+7/3/2020,14R70226042,14 - NIXAPA                        ,92 - OPERADOR LOGISTICO            ,C-119-502,19
+7/3/2020,92R70009552,92 - OPERADOR LOGISTICO            ,14 - NIXAPA                        ,C-119-502,10
+7/3/2020,94R70054615,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-502,59
+8/3/2020,01R71082625,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-502,36
+8/3/2020,01R71082672,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-502,24
+8/3/2020,06R70122810,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-502,62
+8/3/2020,14R70225975,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+8/3/2020,14R70225989,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-502,29
+1/3/2020,01R71081879,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-504,24
+1/3/2020,01R71081926,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-504,24
+1/3/2020,01R71081947,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-504,24
+1/3/2020,14R70225570,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-504,29
+1/3/2020,14R70225582,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-504,29
+1/3/2020,14R70225606,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-504,29
+1/3/2020,14R70225610,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-504,29
+2/3/2020,01R71081951,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-504,36
+2/3/2020,01R71082027,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-504,24
+2/3/2020,14R70225654,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-504,29
+2/3/2020,14R70225661,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-504,29
+2/3/2020,93R70067297,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-119-504,57
+3/3/2020,01R71082103,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-504,24
+3/3/2020,04R70261183,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-119-504,55
+3/3/2020,08R70012020,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-504,21
+3/3/2020,14R70225643,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-504,20
+3/3/2020,14R70225705,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-119-504,54
+4/3/2020,06R70122732,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-504,62
+4/3/2020,08R70012027,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-504,21
+4/3/2020,14R70225711,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-504,61
+4/3/2020,14R70225731,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-504,20
+4/3/2020,14R70225773,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-504,29
+4/3/2020,14R70225812,14 - NIXAPA                        ,TA - Taller Arianita,C-119-504,15
+5/3/2020,01R71082317,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-504,24
+5/3/2020,05R70240262,05 - SAN MIGUEL                    ,14 - NIXAPA                        ,C-119-504,138
+5/3/2020,14R70225825,14 - NIXAPA                        ,05 - SAN MIGUEL                    ,C-119-504,143
+1/3/2020,01R71081919,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-550,24
+1/3/2020,01R71081940,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-550,24
+1/3/2020,01R71081955,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-550,24
+1/3/2020,06R70122575,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-550,62
+1/3/2020,06R70122585,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-550,62
+1/3/2020,14R70225417,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-550,61
+1/3/2020,14R70225594,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-550,29
+1/3/2020,14R70225599,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-550,29
+1/3/2020,14R70225615,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-550,29
+1/3/2020,14R70225634,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-550,61
+2/3/2020,01R71081964,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-550,24
+2/3/2020,06R70122700,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-550,62
+2/3/2020,08R70012008,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-119-550,21
+2/3/2020,14R70225406,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-550,29
+2/3/2020,14R70225590,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-119-550,20
+2/3/2020,14R70225687,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-550,61
+3/3/2020,01R71082157,01 - PLANTA SOYAPANGO              ,11 - CHALATENANGO                  ,C-119-550,52
+3/3/2020,14R70225673,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-550,59
+3/3/2020,14R70225734,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-550,29
+3/3/2020,94R70054547,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-550,59
+4/3/2020,11R70057094,11 - CHALATENANGO                  ,14 - NIXAPA                        ,C-119-550,44
+4/3/2020,14R70225657,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-550,29
+4/3/2020,14R70225808,14 - NIXAPA                        ,AW - WALLMART                      ,C-119-550,12
+5/3/2020,01R71082225,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-119-550,19
+5/3/2020,01R71082302,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-550,24
+5/3/2020,06R70122745,06 - SONSONATE                     ,92 - OPERADOR LOGISTICO            ,C-119-550,72
+5/3/2020,14R70225763,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-550,61
+5/3/2020,14R70225935,14 - NIXAPA                        ,AB - RANSA                         ,C-119-550,14
+5/3/2020,90R70017475,AB - RANSA                         ,14 - NIXAPA                        ,C-119-550,7
+5/3/2020,92R70009538,92 - OPERADOR LOGISTICO            ,01 - PLANTA SOYAPANGO              ,C-119-550,18
+5/3/2020,95R70007249,AW - WALLMART                      ,14 - NIXAPA                        ,C-119-550,8
+6/3/2020,14R70225850,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-550,29
+6/3/2020,14R70225885,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-119-550,59
+6/3/2020,94R70054582,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-119-550,59
+7/3/2020,01R71082538,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-550,24
+7/3/2020,01R71082612,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-550,24
+7/3/2020,06R70122792,06 - SONSONATE                     ,14 - NIXAPA                        ,C-119-550,62
+7/3/2020,14R70225913,14 - NIXAPA                        ,06 - SONSONATE                     ,C-119-550,61
+7/3/2020,14R70225922,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-550,29
+7/3/2020,14R70226047,14 - NIXAPA                        ,AB - RANSA                         ,C-119-550,14
+7/3/2020,90R70017478,AB - RANSA                         ,14 - NIXAPA                        ,C-119-550,7
+8/3/2020,01R71082664,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-550,24
+8/3/2020,01R71082687,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-119-550,24
+8/3/2020,14R70225996,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-550,29
+8/3/2020,14R70225999,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-119-550,29
+1/3/2020,01R71081873,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-058,24
+1/3/2020,01R71081929,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-058,24
+1/3/2020,14R70225571,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-058,29
+1/3/2020,14R70225574,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-058,29
+2/3/2020,01R71081958,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-058,24
+6/3/2020,04R70261228,04 - SANTA ANA                     ,17 - EXPORTACIONES CERVEZA         ,C-118-058,75
+6/3/2020,08R70012044,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-118-058,21
+6/3/2020,14R70225878,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-118-058,20
+6/3/2020,14R70225904,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-118-058,54
+7/3/2020,01R71082558,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-058,24
+7/3/2020,01R71082580,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-058,24
+7/3/2020,08R70012055,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-118-058,21
+7/3/2020,14R70225881,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-118-058,20
+7/3/2020,14R70225920,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-058,29
+7/3/2020,14R70225927,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-058,29
+7/3/2020,14R70225994,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-058,29
+7/3/2020,17R70123273,17 - EXPORTACIONES CERVEZA         ,14 - NIXAPA                        ,C-118-058,20
+8/3/2020,01R71082661,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-058,24
+8/3/2020,01R71082679,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-058,24
+8/3/2020,14R70225916,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-058,29
+8/3/2020,14R70225974,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-058,29
+1/3/2020,01R71081895,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+1/3/2020,01R71081922,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+1/3/2020,01R71081945,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+1/3/2020,06R70122579,06 - SONSONATE                     ,14 - NIXAPA                        ,C-118-070,62
+1/3/2020,06R70122587,06 - SONSONATE                     ,14 - NIXAPA                        ,C-118-070,62
+1/3/2020,14R70225462,14 - NIXAPA                        ,06 - SONSONATE                     ,C-118-070,61
+1/3/2020,14R70225523,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+1/3/2020,14R70225586,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+1/3/2020,14R70225608,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+1/3/2020,14R70225611,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+1/3/2020,14R70225632,14 - NIXAPA                        ,06 - SONSONATE                     ,C-118-070,61
+2/3/2020,01R71081717,01 - PLANTA SOYAPANGO              ,31 - DISTR. AGUA Y JUGO            ,C-118-070,4
+2/3/2020,01R71081957,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+2/3/2020,01R71082030,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+2/3/2020,14R70225567,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+2/3/2020,14R70225689,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+2/3/2020,31R70359084,31 - DISTR. AGUA Y JUGO            ,14 - NIXAPA                        ,C-118-070,20
+3/3/2020,01R71082108,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+3/3/2020,08R70012022,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-118-070,21
+3/3/2020,14R70225670,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+3/3/2020,14R70225732,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-118-070,20
+3/3/2020,14R70225742,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+4/3/2020,01R71082120,01 - PLANTA SOYAPANGO              ,31 - DISTR. AGUA Y JUGO            ,C-118-070,4
+4/3/2020,01R71082200,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+4/3/2020,08R70012032,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-118-070,21
+4/3/2020,14R70225715,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+4/3/2020,14R70225764,14 - NIXAPA                        ,06 - SONSONATE                     ,C-118-070,61
+4/3/2020,14R70225790,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-118-070,20
+4/3/2020,31R70359383,31 - DISTR. AGUA Y JUGO            ,14 - NIXAPA                        ,C-118-070,20
+5/3/2020,01R71082328,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+5/3/2020,04R70261207,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-118-070,55
+5/3/2020,06R70122741,06 - SONSONATE                     ,14 - NIXAPA                        ,C-118-070,62
+5/3/2020,14R70225770,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+5/3/2020,14R70225781,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+5/3/2020,14R70225831,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-118-070,54
+6/3/2020,01R71082437,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-118-070,36
+6/3/2020,14R70225884,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-118-070,59
+6/3/2020,93R70067458,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-118-070,57
+6/3/2020,94R70054605,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-118-070,59
+7/3/2020,01R71082553,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+7/3/2020,01R71082583,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+7/3/2020,06R70122793,06 - SONSONATE                     ,14 - NIXAPA                        ,C-118-070,62
+7/3/2020,14R70225713,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+7/3/2020,14R70225969,14 - NIXAPA                        ,06 - SONSONATE                     ,C-118-070,61
+7/3/2020,14R70226002,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+8/3/2020,01R71082663,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+8/3/2020,01R71082682,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-118-070,24
+8/3/2020,14R70225858,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+8/3/2020,14R70225988,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+8/3/2020,14R70226038,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-118-070,29
+4/3/2020,01R71082286,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-634,5.5
+4/3/2020,07R70077778,07 - USULUTAN                      ,29 - PLANTA JUGO SAN SALV.         ,C-117-634,115
+4/3/2020,29R70189980,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-634,4
+4/3/2020,29R70190004,29 - PLANTA JUGO SAN SALV.         ,07 - USULUTAN                      ,C-117-634,115
+5/3/2020,01R71082311,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-634,5.5
+5/3/2020,29R70190033,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-634,4
+6/3/2020,01R71082458,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-634,5.5
+6/3/2020,05R70240282,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-117-634,124
+6/3/2020,29R70190099,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-634,4
+6/3/2020,29R70190123,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-117-634,124
+6/3/2020,29R70190152,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-117-634,74
+7/3/2020,04R70261230,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-117-634,74
+7/3/2020,04R70261236,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-117-634,74
+7/3/2020,29R70190154,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-117-634,74
+8/3/2020,01R71082671,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-634,5.5
+8/3/2020,01R71082685,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-634,5.5
+8/3/2020,29R70190144,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-117-634,124
+8/3/2020,29R70190238,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-634,4
+8/3/2020,29R70190244,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-634,4
+2/3/2020,29R70189837,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-063,40
+2/3/2020,93R70067300,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,40
+3/3/2020,01R71082114,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,5.5
+3/3/2020,04R70261182,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,74
+3/3/2020,29R70189895,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-063,4
+3/3/2020,29R70189898,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-063,4
+3/3/2020,29R70189929,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-119-063,74
+3/3/2020,29R70189934,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-119-063,37
+3/3/2020,29R70189938,29 - PLANTA JUGO SAN SALV.         ,TA - Taller Arianita,C-119-063,35
+3/3/2020,94R70054550,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,37
+4/3/2020,01R71082201,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,5.5
+4/3/2020,14R70225802,14 - NIXAPA                        ,TA - Taller Arianita,C-119-063,15
+4/3/2020,29R70189974,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-119-063,37
+5/3/2020,01R71082421,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,5.5
+5/3/2020,05R70240223,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,124
+5/3/2020,29R70190064,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-119-063,124
+5/3/2020,29R70190095,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-063,4
+6/3/2020,06R70122776,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,81
+6/3/2020,29R70190065,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-119-063,81
+6/3/2020,29R70190086,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-119-063,37
+6/3/2020,94R70054580,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,37
+7/3/2020,01R71082606,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,5.5
+7/3/2020,05R70240323,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,124
+7/3/2020,29R70190135,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-119-063,124
+7/3/2020,29R70190150,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-063,40
+7/3/2020,29R70190172,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-063,4
+7/3/2020,93R70067470,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,40
+8/3/2020,01R71082636,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,5.5
+8/3/2020,04R70261248,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-119-063,74
+8/3/2020,29R70190155,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-119-063,74
+8/3/2020,29R70190171,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-063,4
+8/3/2020,01R71082643,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-972,24
+8/3/2020,14R70225997,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-972,29
+1/3/2020,01R71081868,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,5.5
+1/3/2020,01R71081888,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,5.5
+1/3/2020,01R71081904,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,5.5
+1/3/2020,04R70260995,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,74
+1/3/2020,29R70189736,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-183,4
+1/3/2020,29R70189743,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-183,4
+1/3/2020,29R70189798,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-117-183,74
+3/3/2020,29R70189940,29 - PLANTA JUGO SAN SALV.         ,TA - Taller Arianita,C-117-183,35
+5/3/2020,01R71082376,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,5.5
+5/3/2020,01R71082415,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,5.5
+5/3/2020,29R70190029,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-117-183,37
+5/3/2020,29R70190042,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-183,4
+5/3/2020,29R70190093,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-183,4
+5/3/2020,94R70054575,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,37
+6/3/2020,01R71082440,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,5.5
+6/3/2020,05R70240273,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,124
+6/3/2020,29R70190044,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-183,4
+6/3/2020,29R70190083,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-117-183,124
+7/3/2020,01R71082560,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,5.5
+7/3/2020,01R71082616,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,5.5
+7/3/2020,29R70190151,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-117-183,40
+7/3/2020,29R70190186,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-183,4
+7/3/2020,29R70190189,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-183,4
+7/3/2020,93R70067472,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,40
+8/3/2020,01R71082644,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-183,5.5
+8/3/2020,29R70190211,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-183,4
+1/3/2020,01R71081872,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,5.5
+1/3/2020,05R70239920,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,124
+1/3/2020,29R70189695,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-117-884,124
+2/3/2020,01R71082007,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,5.5
+2/3/2020,05R70240087,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,124
+2/3/2020,29R70189826,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-117-884,124
+2/3/2020,29R70189871,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-884,4
+3/3/2020,01R71082098,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,5.5
+3/3/2020,29R70189919,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-884,4
+3/3/2020,91R70002938,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-117-884,35
+4/3/2020,01R71082221,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,5.5
+4/3/2020,01R71082235,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,5.5
+4/3/2020,04R70261201,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,74
+4/3/2020,29R70189960,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-117-884,40
+4/3/2020,29R70190005,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-884,4
+4/3/2020,29R70190012,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-884,4
+4/3/2020,29R70190023,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-117-884,74
+4/3/2020,93R70067443,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,40
+5/3/2020,01R71082323,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,5.5
+5/3/2020,05R70240219,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,124
+5/3/2020,29R70189964,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-884,4
+5/3/2020,29R70190026,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-117-884,124
+6/3/2020,01R71082461,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,5.5
+6/3/2020,01R71082524,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,5.5
+6/3/2020,06R70122783,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,81
+6/3/2020,29R70190100,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-884,4
+6/3/2020,29R70190124,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-117-884,81
+6/3/2020,29R70190193,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-884,4
+7/3/2020,01R71082542,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,5.5
+7/3/2020,04R70261235,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,74
+7/3/2020,29R70190102,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-884,4
+7/3/2020,29R70190153,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-117-884,74
+8/3/2020,05R70240342,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-117-884,124
+8/3/2020,29R70190145,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-117-884,124
+1/3/2020,01R71081874,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-63-309,5.5
+1/3/2020,01R71081892,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-63-309,5.5
+1/3/2020,29R70189741,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-63-309,4
+2/3/2020,29R70189838,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-63-309,37
+2/3/2020,29R70189915,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-63-309,124
+2/3/2020,94R70054505,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-63-309,37
+3/3/2020,05R70240099,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-63-309,124
+4/3/2020,01R71082219,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-63-309,5.5
+4/3/2020,01R71082283,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-63-309,5.5
+4/3/2020,04R70261190,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-63-309,74
+4/3/2020,29R70189979,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-63-309,4
+4/3/2020,29R70190000,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-63-309,4
+4/3/2020,29R70190002,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-63-309,74
+5/3/2020,01R71082301,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-63-309,5.5
+5/3/2020,01R71082320,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-63-309,5.5
+5/3/2020,29R70189965,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-63-309,4
+5/3/2020,29R70189968,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-63-309,4
+1/3/2020,01R71081880,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+1/3/2020,04R70260993,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,74
+1/3/2020,29R70189746,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+1/3/2020,29R70189797,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-119-173,74
+2/3/2020,01R71082059,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+2/3/2020,06R70122623,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,81
+2/3/2020,29R70189803,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+2/3/2020,29R70189840,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-119-173,81
+3/3/2020,01R71082092,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+3/3/2020,01R71082101,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+3/3/2020,29R70189808,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+3/3/2020,29R70189912,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+3/3/2020,29R70189941,29 - PLANTA JUGO SAN SALV.         ,TA - Taller Arianita,C-119-173,35
+3/3/2020,29R70189942,29 - PLANTA JUGO SAN SALV.         ,TA - Taller Arianita,C-119-173,35
+3/3/2020,29R70189943,29 - PLANTA JUGO SAN SALV.         ,TA - Taller Arianita,C-119-173,35
+3/3/2020,29R70189944,29 - PLANTA JUGO SAN SALV.         ,TA - Taller Arianita,C-119-173,35
+3/3/2020,91R70002930,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-119-173,35
+3/3/2020,91R70002931,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-119-173,35
+3/3/2020,91R70002936,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-119-173,35
+3/3/2020,91R70002937,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-119-173,35
+3/3/2020,91R70002940,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-119-173,35
+3/3/2020,91R70002946,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-119-173,35
+3/3/2020,91R70002947,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-119-173,35
+4/3/2020,01R71082229,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+4/3/2020,05R70240202,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,124
+4/3/2020,29R70189966,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+4/3/2020,29R70189970,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-119-173,124
+4/3/2020,29R70190009,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+5/3/2020,01R71082299,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+5/3/2020,05R70240217,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,124
+5/3/2020,29R70189963,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+5/3/2020,29R70190025,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-119-173,124
+6/3/2020,01R71082455,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+6/3/2020,01R71082463,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+6/3/2020,01R71082482,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+6/3/2020,01R71082516,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+6/3/2020,29R70190098,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+6/3/2020,29R70190112,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+6/3/2020,29R70190113,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+6/3/2020,29R70190191,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+7/3/2020,01R71082539,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+7/3/2020,01R71082546,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,5.5
+7/3/2020,29R70190107,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+7/3/2020,29R70190196,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-119-173,4
+8/3/2020,05R70240338,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-119-173,124
+8/3/2020,29R70190139,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-119-173,124
+8/3/2020,29R70190147,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-119-173,40
+1/3/2020,01R71081898,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+1/3/2020,01R71081916,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+1/3/2020,01R71081932,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+1/3/2020,01R71081946,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+1/3/2020,04R70261002,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,74
+1/3/2020,29R70189652,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-118-549,124
+1/3/2020,29R70189694,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-118-549,74
+1/3/2020,29R70189708,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+1/3/2020,29R70189719,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+1/3/2020,29R70189730,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+1/3/2020,29R70189739,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+2/3/2020,05R70239951,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,124
+3/3/2020,01R71082113,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+3/3/2020,04R70261184,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,74
+3/3/2020,29R70189896,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+3/3/2020,29R70189936,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-118-549,40
+3/3/2020,29R70189969,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-118-549,74
+3/3/2020,93R70067434,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,40
+4/3/2020,01R71082205,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+4/3/2020,29R70189986,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+4/3/2020,94R70054565,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,37
+5/3/2020,01R71082335,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+5/3/2020,05R70240264,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,124
+5/3/2020,29R70189958,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-118-549,124
+5/3/2020,29R70190030,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-118-549,40
+5/3/2020,29R70190046,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+5/3/2020,93R70067451,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,40
+6/3/2020,01R71082443,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+6/3/2020,04R70261218,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,74
+6/3/2020,29R70190050,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+6/3/2020,29R70190080,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-118-549,74
+7/3/2020,01R71082569,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+7/3/2020,01R71082607,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+7/3/2020,29R70190173,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+7/3/2020,29R70190188,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+8/3/2020,01R71082642,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+8/3/2020,01R71082655,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-549,5.5
+8/3/2020,29R70190212,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+8/3/2020,29R70190219,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-549,4
+1/3/2020,01R71081875,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,5.5
+1/3/2020,05R70239921,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,124
+1/3/2020,29R70189771,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-118-929,124
+2/3/2020,01R71082009,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,5.5
+2/3/2020,01R71082032,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,5.5
+2/3/2020,01R71082074,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,5.5
+2/3/2020,29R70189811,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-929,4
+2/3/2020,29R70189815,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-929,4
+2/3/2020,29R70189839,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-118-929,37
+2/3/2020,29R70189873,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-929,4
+2/3/2020,94R70054504,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,37
+3/3/2020,01R71082100,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,5.5
+3/3/2020,29R70189914,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-929,4
+3/3/2020,91R70002951,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-118-929,35
+4/3/2020,29R70189982,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-929,4
+5/3/2020,01R71082293,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,5.5
+5/3/2020,01R71082306,01 - PLANTA SOYAPANGO              ,07 - USULUTAN                      ,C-118-929,117
+5/3/2020,07R70077781,07 - USULUTAN                      ,14 - NIXAPA                        ,C-118-929,135
+5/3/2020,29R70189983,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-929,4
+6/3/2020,01R71082513,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,5.5
+6/3/2020,29R70190089,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-118-929,40
+6/3/2020,29R70190190,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-929,4
+6/3/2020,93R70067463,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,40
+7/3/2020,01R71082536,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,5.5
+7/3/2020,05R70240327,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,124
+7/3/2020,06R70122789,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,81
+7/3/2020,29R70190110,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-118-929,4
+7/3/2020,29R70190134,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-118-929,124
+7/3/2020,29R70190163,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-118-929,81
+8/3/2020,05R70240339,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-118-929,124
+8/3/2020,29R70190140,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-118-929,124
+8/3/2020,29R70190146,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-118-929,124
+1/3/2020,01R71081908,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,5.5
+1/3/2020,01R71081918,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,5.5
+1/3/2020,01R71081931,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,5.5
+1/3/2020,01R71081943,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,5.5
+1/3/2020,06R70122581,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,81
+1/3/2020,29R70189703,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-257,4
+1/3/2020,29R70189709,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-257,4
+1/3/2020,29R70189721,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-257,4
+1/3/2020,29R70189734,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-257,4
+1/3/2020,29R70189766,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-116-257,81
+1/3/2020,29R70189775,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-116-257,124
+2/3/2020,05R70239950,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,124
+3/3/2020,01R71082178,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,5.5
+3/3/2020,06R70122716,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,81
+3/3/2020,29R70189931,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-116-257,81
+3/3/2020,29R70189990,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-257,4
+4/3/2020,01R71082207,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,5.5
+4/3/2020,29R70189890,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-257,4
+5/3/2020,01R71082326,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,5.5
+5/3/2020,01R71082334,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,5.5
+5/3/2020,04R70261208,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,74
+5/3/2020,29R70189961,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-116-257,74
+5/3/2020,29R70190036,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-257,4
+5/3/2020,29R70190039,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-257,4
+5/3/2020,29R70190096,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-257,4
+6/3/2020,01R71082429,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,5.5
+6/3/2020,06R70122778,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,81
+6/3/2020,29R70190084,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-116-257,81
+7/3/2020,01R71082577,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,5.5
+7/3/2020,29R70190132,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-116-257,37
+7/3/2020,29R70190174,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-257,4
+7/3/2020,94R70054609,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,37
+8/3/2020,06R70122811,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-116-257,81
+8/3/2020,29R70190164,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-116-257,81
+1/3/2020,01R71081890,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-397,5.5
+1/3/2020,04R70260996,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-115-397,74
+1/3/2020,29R70189706,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-115-397,74
+1/3/2020,29R70189742,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-397,4
+2/3/2020,01R71082014,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-397,5.5
+2/3/2020,01R71082065,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-397,5.5
+2/3/2020,29R70189806,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-397,4
+2/3/2020,29R70189813,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-397,4
+2/3/2020,29R70189836,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-115-397,40
+2/3/2020,93R70067301,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-115-397,40
+3/3/2020,04R70261176,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-115-397,74
+3/3/2020,29R70189917,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-115-397,74
+3/3/2020,29R70189945,29 - PLANTA JUGO SAN SALV.         ,TA - Taller Arianita,C-115-397,35
+3/3/2020,91R70002950,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-115-397,35
+8/3/2020,01R71082690,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-397,5.5
+8/3/2020,29R70190131,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-115-397,37
+8/3/2020,29R70190170,29 - PLANTA JUGO SAN SALV.         ,07 - USULUTAN                      ,C-115-397,115
+8/3/2020,29R70190236,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-397,4
+2/3/2020,01R71081969,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-116-298,19
+1/3/2020,01R71081902,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+1/3/2020,01R71081907,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+1/3/2020,01R71081914,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+1/3/2020,01R71081930,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+1/3/2020,01R71081939,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+1/3/2020,29R70189696,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+1/3/2020,29R70189704,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+1/3/2020,29R70189731,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+1/3/2020,29R70189735,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+1/3/2020,29R70189737,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+1/3/2020,29R70189764,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-116-350,81
+2/3/2020,06R70122619,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,81
+3/3/2020,01R71082112,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+3/3/2020,01R71082183,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+3/3/2020,04R70261180,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,74
+3/3/2020,29R70189892,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+3/3/2020,29R70189928,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-116-350,74
+3/3/2020,29R70189933,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-116-350,37
+3/3/2020,29R70189989,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+3/3/2020,94R70054549,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,37
+4/3/2020,06R70122734,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,81
+4/3/2020,29R70189972,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-116-350,81
+5/3/2020,01R71082331,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+5/3/2020,01R71082377,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+5/3/2020,01R71082417,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+5/3/2020,29R70190038,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+5/3/2020,29R70190043,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+5/3/2020,29R70190094,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+6/3/2020,01R71082422,01 - PLANTA SOYAPANGO              ,07 - USULUTAN                      ,C-116-350,117
+6/3/2020,07R70077786,07 - USULUTAN                      ,14 - NIXAPA                        ,C-116-350,135
+6/3/2020,29R70190047,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+7/3/2020,01R71082575,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+7/3/2020,01R71082620,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+7/3/2020,14R70225978,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-116-350,29
+7/3/2020,29R70190206,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+8/3/2020,01R71082652,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-116-350,5.5
+8/3/2020,29R70190216,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-116-350,4
+1/3/2020,06R70122572,06 - SONSONATE                     ,14 - NIXAPA                        ,C-117-360,62
+1/3/2020,14R70225464,14 - NIXAPA                        ,06 - SONSONATE                     ,C-117-360,61
+2/3/2020,14R70225660,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-360,29
+2/3/2020,14R70225672,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-117-360,59
+2/3/2020,94R70054506,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-117-360,59
+3/3/2020,01R71082099,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-360,24
+3/3/2020,14R70225712,14 - NIXAPA                        ,06 - SONSONATE                     ,C-117-360,61
+3/3/2020,14R70225718,14 - NIXAPA                        ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-117-360,57
+3/3/2020,14R70225748,14 - NIXAPA                        ,AB - RANSA                         ,C-117-360,14
+3/3/2020,93R70067432,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-117-360,57
+4/3/2020,01R71082118,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-117-360,19
+4/3/2020,06R70122731,06 - SONSONATE                     ,14 - NIXAPA                        ,C-117-360,62
+4/3/2020,14R70225737,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-360,29
+4/3/2020,14R70225765,14 - NIXAPA                        ,06 - SONSONATE                     ,C-117-360,61
+4/3/2020,95R70007240,AW - WALLMART                      ,14 - NIXAPA                        ,C-117-360,8
+5/3/2020,01R71082222,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-117-360,19
+5/3/2020,06R70122738,06 - SONSONATE                     ,14 - NIXAPA                        ,C-117-360,62
+5/3/2020,14R70225785,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-360,29
+5/3/2020,14R70225846,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-360,29
+5/3/2020,14R70225876,14 - NIXAPA                        ,TB - TLA,C-117-360,5
+5/3/2020,90R70017473,TB - TLA,14 - NIXAPA                        ,C-117-360,9.5
+5/3/2020,95R70007245,AW - WALLMART                      ,14 - NIXAPA                        ,C-117-360,8
+6/3/2020,01R71082436,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-117-360,36
+6/3/2020,14R70225820,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-117-360,59
+6/3/2020,14R70225845,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-360,29
+6/3/2020,93R70067457,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-117-360,57
+6/3/2020,94R70054584,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-117-360,59
+7/3/2020,01R71082552,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-360,24
+7/3/2020,08R70012057,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-117-360,21
+7/3/2020,14R70225842,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-360,29
+7/3/2020,14R70225944,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-117-360,20
+7/3/2020,14R70225950,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-117-360,59
+7/3/2020,94R70054610,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-117-360,59
+8/3/2020,01R71082627,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-360,24
+8/3/2020,01R71082649,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-360,24
+8/3/2020,01R71082675,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-360,24
+8/3/2020,14R70225980,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-360,29
+8/3/2020,14R70226003,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-360,29
+8/3/2020,14R70226037,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-360,29
+1/3/2020,01R71081883,01 - PLANTA SOYAPANGO              ,07 - USULUTAN                      ,C-117-361,117
+1/3/2020,01R71081925,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-361,24
+1/3/2020,06R70122566,06 - SONSONATE                     ,14 - NIXAPA                        ,C-117-361,62
+1/3/2020,06R70122580,06 - SONSONATE                     ,14 - NIXAPA                        ,C-117-361,62
+1/3/2020,06R70122588,06 - SONSONATE                     ,14 - NIXAPA                        ,C-117-361,62
+1/3/2020,14R70225405,14 - NIXAPA                        ,06 - SONSONATE                     ,C-117-361,61
+1/3/2020,14R70225612,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+1/3/2020,14R70225614,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+1/3/2020,14R70225635,14 - NIXAPA                        ,06 - SONSONATE                     ,C-117-361,61
+2/3/2020,07R70077659,07 - USULUTAN                      ,14 - NIXAPA                        ,C-117-361,135
+3/3/2020,01R71082134,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-361,24
+3/3/2020,08R70012018,08 - PASATIEMPO                    ,92 - OPERADOR LOGISTICO            ,C-117-361,36
+3/3/2020,14R70225650,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-117-361,20
+3/3/2020,14R70225738,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+3/3/2020,92R70009530,92 - OPERADOR LOGISTICO            ,01 - PLANTA SOYAPANGO              ,C-117-361,18
+4/3/2020,01R71082212,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-361,24
+5/3/2020,01R71082241,01 - PLANTA SOYAPANGO              ,31 - DISTR. AGUA Y JUGO            ,C-117-361,4
+5/3/2020,01R71082424,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-361,24
+5/3/2020,08R70012037,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-117-361,21
+5/3/2020,14R70225784,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+5/3/2020,14R70225794,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-117-361,20
+5/3/2020,14R70225849,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+5/3/2020,31R70359501,31 - DISTR. AGUA Y JUGO            ,14 - NIXAPA                        ,C-117-361,20
+6/3/2020,01R71082383,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-117-361,19
+6/3/2020,01R71082488,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-361,24
+6/3/2020,14R70225768,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+6/3/2020,14R70225861,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+6/3/2020,95R70007252,AW - WALLMART                      ,14 - NIXAPA                        ,C-117-361,8
+7/3/2020,01R71082469,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-117-361,19
+7/3/2020,01R71082548,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-361,24
+7/3/2020,14R70225777,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+7/3/2020,14R70225966,14 - NIXAPA                        ,06 - SONSONATE                     ,C-117-361,61
+7/3/2020,14R70226000,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+7/3/2020,95R70007265,AW - WALLMART                      ,14 - NIXAPA                        ,C-117-361,8
+8/3/2020,01R71082659,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-361,24
+8/3/2020,01R71082678,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-361,24
+8/3/2020,06R70122809,06 - SONSONATE                     ,14 - NIXAPA                        ,C-117-361,62
+8/3/2020,14R70225857,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+8/3/2020,14R70225986,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+8/3/2020,14R70225992,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-361,29
+3/3/2020,01R71082125,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,5.5
+3/3/2020,01R71082174,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,5.5
+3/3/2020,08R70012025,08 - PASATIEMPO                    ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,42
+3/3/2020,29R70189887,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-61-568,4
+3/3/2020,29R70189891,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-61-568,4
+3/3/2020,29R70189918,29 - PLANTA JUGO SAN SALV.         ,08 - PASATIEMPO                    ,C-61-568,42
+3/3/2020,29R70189997,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-61-568,4
+3/3/2020,91R70002932,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-61-568,35
+4/3/2020,01R71082202,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,5.5
+4/3/2020,05R70240181,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,124
+4/3/2020,29R70189971,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-61-568,124
+5/3/2020,01R71082329,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,5.5
+5/3/2020,01R71082373,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,5.5
+5/3/2020,01R71082413,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,5.5
+5/3/2020,29R70190037,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-61-568,4
+5/3/2020,29R70190041,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-61-568,4
+5/3/2020,29R70190052,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-61-568,4
+5/3/2020,29R70190092,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-61-568,4
+6/3/2020,01R71082433,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,5.5
+6/3/2020,04R70261217,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,74
+6/3/2020,29R70190079,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-61-568,74
+7/3/2020,01R71082570,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,5.5
+7/3/2020,01R71082608,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,5.5
+7/3/2020,29R70190185,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-61-568,4
+7/3/2020,29R70190203,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-61-568,4
+8/3/2020,01R71082640,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,5.5
+8/3/2020,04R70261250,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-61-568,74
+8/3/2020,29R70190157,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-61-568,74
+8/3/2020,29R70190205,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-61-568,4
+1/3/2020,01R71081865,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,5.5
+1/3/2020,01R71081903,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,5.5
+1/3/2020,05R70239916,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,124
+1/3/2020,29R70189715,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-846,4
+1/3/2020,29R70189770,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-64-846,124
+3/3/2020,01R71082107,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,5.5
+3/3/2020,01R71082133,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,5.5
+3/3/2020,01R71082147,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,5.5
+3/3/2020,29R70189883,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-846,4
+3/3/2020,29R70189889,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-846,4
+3/3/2020,29R70189935,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-64-846,40
+3/3/2020,29R70189996,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-846,4
+3/3/2020,93R70067433,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,40
+4/3/2020,01R71082199,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,5.5
+4/3/2020,29R70189975,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-64-846,40
+4/3/2020,93R70067436,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,40
+5/3/2020,05R70240263,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,124
+5/3/2020,29R70189957,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-64-846,37
+5/3/2020,29R70189959,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-64-846,124
+5/3/2020,94R70054576,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,37
+6/3/2020,01R71082446,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,5.5
+6/3/2020,29R70190049,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-846,4
+6/3/2020,29R70190055,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-64-846,40
+6/3/2020,93R70067459,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,40
+7/3/2020,01R71082566,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,5.5
+7/3/2020,06R70122808,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,81
+7/3/2020,29R70190168,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-64-846,81
+7/3/2020,29R70190201,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-846,4
+8/3/2020,01R71082647,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-846,5.5
+8/3/2020,29R70190214,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-846,4
+1/3/2020,01R71081886,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+1/3/2020,05R70239923,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,124
+1/3/2020,29R70189705,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-64-848,124
+1/3/2020,29R70189745,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+2/3/2020,01R71082033,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+2/3/2020,07R70077662,07 - USULUTAN                      ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,115
+2/3/2020,29R70189802,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+2/3/2020,29R70189816,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+2/3/2020,29R70189835,29 - PLANTA JUGO SAN SALV.         ,07 - USULUTAN                      ,C-64-848,115
+3/3/2020,01R71082075,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+3/3/2020,01R71082096,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+3/3/2020,29R70189920,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+4/3/2020,01R71082228,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+4/3/2020,01R71082233,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+4/3/2020,01R71082243,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+4/3/2020,04R70261200,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,74
+4/3/2020,29R70189977,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+4/3/2020,29R70190008,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+4/3/2020,29R70190013,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+4/3/2020,29R70190024,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-64-848,74
+5/3/2020,01R71082316,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+5/3/2020,29R70189978,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+6/3/2020,01R71082454,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+6/3/2020,01R71082462,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+6/3/2020,01R71082518,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+6/3/2020,08R70012045,08 - PASATIEMPO                    ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,42
+6/3/2020,29R70190091,29 - PLANTA JUGO SAN SALV.         ,08 - PASATIEMPO                    ,C-64-848,42
+6/3/2020,29R70190097,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+6/3/2020,29R70190101,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+6/3/2020,29R70190192,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+7/3/2020,01R71082541,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+7/3/2020,05R70240294,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,124
+7/3/2020,29R70190081,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-64-848,124
+7/3/2020,29R70190197,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+8/3/2020,01R71082665,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-64-848,5.5
+8/3/2020,29R70190184,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-64-848,4
+2/3/2020,08R70012014,08 - PASATIEMPO                    ,14 - NIXAPA                        ,C-65-136,21
+2/3/2020,14R70225558,14 - NIXAPA                        ,08 - PASATIEMPO                    ,C-65-136,20
+2/3/2020,14R70225667,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-65-136,29
+3/3/2020,01R71082087,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-65-136,36
+3/3/2020,14R70225722,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-65-136,59
+3/3/2020,93R70067428,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-65-136,57
+3/3/2020,94R70054563,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-65-136,59
+4/3/2020,14R70225797,14 - NIXAPA                        ,94 - C.D. SAN LUIS TALPA           ,C-65-136,59
+4/3/2020,14R70225803,14 - NIXAPA                        ,TA - Taller Arianita,C-65-136,15
+4/3/2020,94R70054571,94 - C.D. SAN LUIS TALPA           ,14 - NIXAPA                        ,C-65-136,59
+5/3/2020,01R71082322,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-65-136,24
+5/3/2020,01R71082388,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-65-136,24
+5/3/2020,01R71082412,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-65-136,24
+5/3/2020,14R70225721,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-65-136,29
+5/3/2020,14R70225783,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-65-136,29
+5/3/2020,14R70225848,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-65-136,29
+5/3/2020,14R70225871,14 - NIXAPA                        ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-65-136,57
+5/3/2020,93R70067455,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-65-136,57
+6/3/2020,01R71082379,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-65-136,19
+6/3/2020,04R70261215,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-65-136,55
+6/3/2020,14R70225834,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-65-136,54
+6/3/2020,14R70225852,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-65-136,29
+6/3/2020,14R70225930,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-65-136,29
+6/3/2020,95R70007255,AW - WALLMART                      ,14 - NIXAPA                        ,C-65-136,8
+7/3/2020,01R71082480,01 - PLANTA SOYAPANGO              ,31 - DISTR. AGUA Y JUGO            ,C-65-136,4
+7/3/2020,01R71082537,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-65-136,24
+7/3/2020,14R70225926,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-65-136,29
+7/3/2020,14R70226048,14 - NIXAPA                        ,92 - OPERADOR LOGISTICO            ,C-65-136,19
+7/3/2020,14R70226051,14 - NIXAPA                        ,AB - RANSA                         ,C-65-136,14
+7/3/2020,31R70359772,31 - DISTR. AGUA Y JUGO            ,14 - NIXAPA                        ,C-65-136,20
+7/3/2020,92R70009553,92 - OPERADOR LOGISTICO            ,14 - NIXAPA                        ,C-65-136,10
+8/3/2020,01R71082623,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-65-136,36
+8/3/2020,01R71082648,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-65-136,24
+8/3/2020,01R71082670,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-65-136,24
+8/3/2020,14R70225976,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-65-136,29
+8/3/2020,14R70225977,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-65-136,29
+8/3/2020,14R70225983,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-65-136,29
+7/3/2020,29R70190309,29 - PLANTA JUGO SAN SALV.         ,TA - Taller Arianita,C-67-735,35
+8/3/2020,01R71082637,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-67-735,5.5
+8/3/2020,04R70261249,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-67-735,74
+8/3/2020,29R70190156,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-67-735,74
+8/3/2020,29R70190209,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-67-735,4
+3/3/2020,91R70002939,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-100-544,35
+3/3/2020,91R70002941,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-100-544,35
+3/3/2020,91R70002945,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-100-544,35
+3/3/2020,91R70002935,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-104-742,35
+1/3/2020,01R71081899,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+1/3/2020,01R71081905,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+1/3/2020,01R71081909,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+1/3/2020,01R71081923,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+1/3/2020,01R71081935,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+1/3/2020,01R71081948,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+1/3/2020,29R70189698,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+1/3/2020,29R70189702,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+1/3/2020,29R70189710,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+1/3/2020,29R70189729,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+1/3/2020,29R70189733,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+1/3/2020,29R70189738,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+1/3/2020,29R70189765,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-107-665,81
+2/3/2020,06R70122621,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,81
+3/3/2020,01R71082176,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+3/3/2020,07R70077773,07 - USULUTAN                      ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,115
+3/3/2020,29R70189932,29 - PLANTA JUGO SAN SALV.         ,07 - USULUTAN                      ,C-107-665,115
+3/3/2020,29R70189962,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+4/3/2020,01R71082204,01 - PLANTA SOYAPANGO              ,TA - Taller Arianita,C-107-665,39
+4/3/2020,29R70189987,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+5/3/2020,01R71082391,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+5/3/2020,29R70190031,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-107-665,40
+5/3/2020,29R70190051,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+5/3/2020,29R70190053,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+5/3/2020,93R70067453,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,40
+6/3/2020,01R71082431,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+6/3/2020,05R70240272,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,124
+6/3/2020,29R70190082,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-107-665,124
+7/3/2020,06R70122806,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,81
+7/3/2020,29R70190165,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-107-665,81
+8/3/2020,01R71082633,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+8/3/2020,01R71082653,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-107-665,5.5
+8/3/2020,29R70190176,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+8/3/2020,29R70190208,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-107-665,4
+1/3/2020,01R71081870,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+1/3/2020,05R70239918,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,124
+1/3/2020,29R70189650,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-108-847,124
+2/3/2020,01R71082006,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+2/3/2020,01R71082068,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+2/3/2020,04R70261170,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,74
+2/3/2020,29R70189814,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-108-847,4
+2/3/2020,29R70189832,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-108-847,74
+2/3/2020,29R70189870,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-108-847,4
+3/3/2020,01R71082095,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+3/3/2020,29R70189921,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-108-847,4
+3/3/2020,91R70002948,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-108-847,35
+4/3/2020,01R71082218,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+4/3/2020,05R70240205,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,124
+4/3/2020,29R70189886,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-108-847,124
+4/3/2020,29R70189985,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-108-847,4
+4/3/2020,29R70190007,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-108-847,40
+4/3/2020,93R70067442,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,40
+5/3/2020,01R71082314,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+5/3/2020,29R70190035,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-108-847,4
+6/3/2020,01R71082511,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+6/3/2020,29R70190045,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-108-847,4
+6/3/2020,29R70190087,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-108-847,37
+6/3/2020,29R70190088,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-108-847,40
+6/3/2020,29R70190109,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-108-847,4
+6/3/2020,93R70067462,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,40
+6/3/2020,94R70054583,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,37
+7/3/2020,01R71082535,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+7/3/2020,06R70122788,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,81
+7/3/2020,29R70190162,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-108-847,81
+8/3/2020,01R71082656,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+8/3/2020,01R71082673,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+8/3/2020,01R71082688,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-108-847,5.5
+8/3/2020,29R70190143,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-108-847,124
+8/3/2020,29R70190220,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-108-847,4
+8/3/2020,29R70190237,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-108-847,4
+8/3/2020,29R70190243,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-108-847,4
+1/3/2020,05R70239917,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-70-165,124
+1/3/2020,29R70189653,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-70-165,124
+2/3/2020,01R71082061,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-70-165,5.5
+2/3/2020,06R70122622,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-70-165,81
+2/3/2020,29R70189812,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-70-165,4
+2/3/2020,29R70189866,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-70-165,81
+3/3/2020,01R71082094,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-70-165,5.5
+3/3/2020,29R70189809,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-70-165,4
+3/3/2020,29R70189910,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-70-165,4
+4/3/2020,01R71082251,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-70-165,5.5
+4/3/2020,29R70189967,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-70-165,4
+4/3/2020,29R70189984,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-70-165,4
+4/3/2020,29R70190011,29 - PLANTA JUGO SAN SALV.         ,TA - Taller Arianita,C-70-165,35
+5/3/2020,01R71082296,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-70-165,5.5
+5/3/2020,07R70077779,07 - USULUTAN                      ,29 - PLANTA JUGO SAN SALV.         ,C-70-165,115
+5/3/2020,29R70190028,29 - PLANTA JUGO SAN SALV.         ,07 - USULUTAN                      ,C-70-165,115
+8/3/2020,01R71082660,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-70-165,5.5
+8/3/2020,01R71082677,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-70-165,5.5
+8/3/2020,06R70122812,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-70-165,81
+8/3/2020,29R70190166,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-70-165,81
+8/3/2020,29R70190202,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-70-165,4
+1/3/2020,01R71081920,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-97-568,5.5
+1/3/2020,01R71081934,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-97-568,5.5
+1/3/2020,04R70261003,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-97-568,74
+1/3/2020,29R70189647,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-97-568,74
+1/3/2020,29R70189693,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-97-568,74
+1/3/2020,29R70189720,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-97-568,4
+1/3/2020,29R70189779,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-97-568,4
+2/3/2020,29R70189759,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-97-568,40
+2/3/2020,93R70067299,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-97-568,40
+3/3/2020,29R70189939,29 - PLANTA JUGO SAN SALV.         ,TA - Taller Arianita,C-97-568,35
+1/3/2020,01R71081877,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,5.5
+1/3/2020,01R71081896,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,5.5
+1/3/2020,29R70189740,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-111-872,4
+1/3/2020,29R70189747,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-111-872,4
+2/3/2020,01R71082011,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,5.5
+2/3/2020,01R71082058,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,5.5
+2/3/2020,04R70261146,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,74
+2/3/2020,29R70189801,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-111-872,4
+2/3/2020,29R70189805,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-111-872,4
+3/3/2020,01R71082082,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,5.5
+3/3/2020,01R71082085,01 - PLANTA SOYAPANGO              ,07 - USULUTAN                      ,C-111-872,117
+3/3/2020,07R70077772,07 - USULUTAN                      ,14 - NIXAPA                        ,C-111-872,135
+3/3/2020,29R70189807,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-111-872,4
+3/3/2020,29R70189913,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-111-872,4
+3/3/2020,91R70002942,TA - Taller Arianita,01 - PLANTA SOYAPANGO              ,C-111-872,39
+3/3/2020,91R70002943,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-111-872,35
+3/3/2020,91R70002944,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-111-872,35
+4/3/2020,04R70261193,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,74
+4/3/2020,29R70189981,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-111-872,4
+4/3/2020,29R70190001,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-111-872,74
+5/3/2020,01R71082288,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,5.5
+5/3/2020,06R70122743,06 - SONSONATE                     ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,81
+5/3/2020,29R70190027,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-111-872,81
+6/3/2020,01R71082510,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,5.5
+6/3/2020,05R70240280,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,124
+6/3/2020,29R70190106,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-111-872,4
+6/3/2020,29R70190122,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-111-872,124
+6/3/2020,29R70190195,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-111-872,4
+7/3/2020,01R71082531,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,5.5
+7/3/2020,01R71082545,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,5.5
+7/3/2020,07R70077792,07 - USULUTAN                      ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,115
+7/3/2020,29R70190169,29 - PLANTA JUGO SAN SALV.         ,07 - USULUTAN                      ,C-111-872,115
+7/3/2020,29R70190199,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-111-872,4
+8/3/2020,05R70240340,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-111-872,124
+8/3/2020,29R70190141,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-111-872,124
+8/3/2020,29R70190167,29 - PLANTA JUGO SAN SALV.         ,06 - SONSONATE                     ,C-111-872,81
+8/3/2020,29R70190242,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-81-648,4
+2/3/2020,01R71081970,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-114-732,19
+1/3/2020,01R71081901,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+1/3/2020,01R71081906,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+1/3/2020,01R71081912,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+1/3/2020,01R71081924,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+1/3/2020,01R71081936,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+1/3/2020,29R70189697,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+1/3/2020,29R70189711,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+1/3/2020,29R70189718,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+1/3/2020,29R70189728,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+1/3/2020,29R70189732,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+1/3/2020,29R70189760,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-113-861,40
+2/3/2020,93R70067296,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,40
+3/3/2020,01R71082124,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+3/3/2020,05R70240174,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,124
+3/3/2020,29R70189894,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+3/3/2020,29R70189930,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-113-861,124
+4/3/2020,01R71082208,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+4/3/2020,29R70189882,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+5/3/2020,04R70261213,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,74
+5/3/2020,29R70189916,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-113-861,74
+5/3/2020,29R70190066,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-113-861,40
+5/3/2020,93R70067454,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,40
+6/3/2020,01R71082447,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+6/3/2020,29R70190103,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+7/3/2020,01R71082563,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+7/3/2020,01R71082576,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+7/3/2020,29R70190200,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+7/3/2020,29R70190204,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+7/3/2020,29R70190207,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+8/3/2020,01R71082631,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+8/3/2020,01R71082651,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-113-861,5.5
+8/3/2020,29R70190217,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-113-861,4
+7/3/2020,04R70261240,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-114-779,74
+7/3/2020,29R70190161,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-114-779,74
+8/3/2020,01R71082646,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-114-779,5.5
+8/3/2020,04R70261251,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-114-779,74
+8/3/2020,29R70190158,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-114-779,74
+8/3/2020,29R70190213,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-114-779,4
+1/3/2020,04R70260992,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,74
+1/3/2020,05R70239915,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,124
+1/3/2020,29R70189795,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-115-343,74
+3/3/2020,01R71082115,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,5.5
+3/3/2020,01R71082126,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,5.5
+3/3/2020,01R71082146,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,5.5
+3/3/2020,29R70189888,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-343,4
+3/3/2020,29R70189893,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-343,4
+3/3/2020,29R70189897,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-343,4
+3/3/2020,29R70189988,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-343,4
+4/3/2020,01R71082198,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,5.5
+4/3/2020,07R70077775,07 - USULUTAN                      ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,115
+4/3/2020,29R70189973,29 - PLANTA JUGO SAN SALV.         ,07 - USULUTAN                      ,C-115-343,115
+5/3/2020,01R71082327,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,5.5
+5/3/2020,01R71082337,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,5.5
+5/3/2020,04R70261214,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,74
+5/3/2020,29R70190040,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-343,4
+5/3/2020,29R70190063,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-115-343,74
+6/3/2020,01R71082448,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,5.5
+6/3/2020,29R70190048,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-343,4
+7/3/2020,01R71082579,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,5.5
+7/3/2020,29R70190149,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-115-343,40
+7/3/2020,29R70190175,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-343,4
+7/3/2020,93R70067471,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,40
+8/3/2020,01R71082639,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,5.5
+8/3/2020,01R71082654,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-343,5.5
+8/3/2020,29R70190210,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-343,4
+8/3/2020,29R70190218,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-343,4
+2/3/2020,01R71081971,01 - PLANTA SOYAPANGO              ,AW - WALLMART                      ,C-115-171,19
+1/3/2020,01R71081881,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,5.5
+1/3/2020,04R70260994,04 - SANTA ANA                     ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,74
+1/3/2020,29R70189744,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-171,4
+1/3/2020,29R70189796,29 - PLANTA JUGO SAN SALV.         ,04 - SANTA ANA                     ,C-115-171,74
+2/3/2020,01R71082008,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,5.5
+2/3/2020,01R71082057,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,5.5
+2/3/2020,29R70189810,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-171,4
+2/3/2020,29R70189817,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-171,4
+2/3/2020,29R70189872,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-171,4
+3/3/2020,01R71082080,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,5.5
+3/3/2020,01R71082088,01 - PLANTA SOYAPANGO              ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-115-171,36
+3/3/2020,29R70189911,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-171,4
+3/3/2020,91R70002933,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-115-171,35
+3/3/2020,91R70002934,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-115-171,35
+3/3/2020,91R70002949,TA - Taller Arianita,29 - PLANTA JUGO SAN SALV.         ,C-115-171,35
+3/3/2020,93R70067430,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,40
+4/3/2020,05R70240204,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,124
+4/3/2020,29R70190003,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-115-171,124
+4/3/2020,29R70190006,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-115-171,40
+4/3/2020,93R70067441,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,40
+5/3/2020,01R71082313,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,5.5
+5/3/2020,29R70190034,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-171,4
+6/3/2020,01R71082509,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,5.5
+6/3/2020,14R70225941,14 - NIXAPA                        ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,25
+6/3/2020,29R70190090,29 - PLANTA JUGO SAN SALV.         ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-115-171,40
+6/3/2020,29R70190104,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-171,4
+6/3/2020,29R70190194,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-171,4
+6/3/2020,93R70067464,93 - C.DE VENTAS SAN RAFAEL CEDROS ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,40
+7/3/2020,01R71082526,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,5.5
+7/3/2020,01R71082544,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,5.5
+7/3/2020,07R70077791,07 - USULUTAN                      ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,115
+7/3/2020,29R70190085,29 - PLANTA JUGO SAN SALV.         ,07 - USULUTAN                      ,C-115-171,115
+7/3/2020,29R70190198,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-115-171,4
+8/3/2020,05R70240341,05 - SAN MIGUEL                    ,29 - PLANTA JUGO SAN SALV.         ,C-115-171,124
+8/3/2020,29R70190142,29 - PLANTA JUGO SAN SALV.         ,05 - SAN MIGUEL                    ,C-115-171,124
+1/3/2020,01R71081869,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-025,24
+1/3/2020,05R70239925,05 - SAN MIGUEL                    ,14 - NIXAPA                        ,C-117-025,138
+1/3/2020,14R70225272,14 - NIXAPA                        ,05 - SAN MIGUEL                    ,C-117-025,143
+2/3/2020,01R71082000,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-025,24
+2/3/2020,04R70261173,04 - SANTA ANA                     ,14 - NIXAPA                        ,C-117-025,55
+2/3/2020,14R70225569,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-025,29
+2/3/2020,14R70225626,14 - NIXAPA                        ,04 - SANTA ANA                     ,C-117-025,54
+3/3/2020,01R71082175,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-025,24
+3/3/2020,14R70225640,14 - NIXAPA                        ,93 - C.DE VENTAS SAN RAFAEL CEDROS ,C-117-025,57
+3/3/2020,14R70225668,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-025,29
+3/3/2020,93R70067431,93 - C.DE VENTAS SAN RAFAEL CEDROS ,14 - NIXAPA                        ,C-117-025,57
+4/3/2020,01R71082220,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-025,24
+4/3/2020,14R70225697,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-025,29
+4/3/2020,14R70225720,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-025,29
+5/3/2020,01R71082319,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-025,24
+5/3/2020,14R70225851,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-025,29
+6/3/2020,01R71082449,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-025,24
+6/3/2020,01R71082475,01 - PLANTA SOYAPANGO              ,14 - NIXAPA                        ,C-117-025,24
+6/3/2020,14R70225639,14 - NIXAPA                        ,01 - PLANTA SOYAPANGO              ,C-117-025,29
+6/3/2020,14R70225908,14 - NIXAPA                        ,06 - SONSONATE                     ,C-117-025,61
+7/3/2020,06R70122785,06 - SONSONATE                     ,14 - NIXAPA                        ,C-117-025,62
+7/3/2020,29R70190133,29 - PLANTA JUGO SAN SALV.         ,94 - C.D. SAN LUIS TALPA           ,C-117-025,37
+7/3/2020,94R70054613,94 - C.D. SAN LUIS TALPA           ,29 - PLANTA JUGO SAN SALV.         ,C-117-025,37
+8/3/2020,01R71082629,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-025,5.5
+8/3/2020,01R71082650,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-025,5.5
+8/3/2020,01R71082668,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-025,5.5
+8/3/2020,01R71082680,01 - PLANTA SOYAPANGO              ,29 - PLANTA JUGO SAN SALV.         ,C-117-025,5.5
+8/3/2020,29R70190187,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-025,4
+8/3/2020,29R70190215,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-025,4
+8/3/2020,29R70190241,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-025,4
+8/3/2020,29R70190283,29 - PLANTA JUGO SAN SALV.         ,01 - PLANTA SOYAPANGO              ,C-117-025,4
