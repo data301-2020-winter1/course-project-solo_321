@@ -29,7 +29,6 @@ def set_int_str(df, column):
     df[column] = df[column].astype(int).astype(str) 
 
 def clean_logistic(df):
-    
     replace_column(df, 'origen', chr(202), ' ')
     replace_column(df, 'destino', chr(202), ' ')
     set_int_str(df, 'placa_rastra')
