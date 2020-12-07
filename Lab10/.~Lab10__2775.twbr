@@ -1,0 +1,1605 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20203.20.1110.1623                               -->
+<workbook source-build='2020.3.3 (20203.20.1110.1623)' source-platform='mac' version='18.1' xml:base='https://dub01.online.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <_.fcp.SetMembershipControl.true...SetMembershipControl />
+    <SheetIdentifierTracking />
+    <_.fcp.SingleValuePerNestSorting.true...SingleValuePerNestSorting />
+    <WindowsPersistSimpleIdentifiers />
+    <ZoneBackgroundTransparency />
+  </document-format-change-manifest>
+  <repository-location id='Lab10_16073030616040' path='/t/data301dashboards/workbooks' revision='1.0' site='data301dashboards' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='tableau' inline='true' name='federated.0kqqbh1160d5gy1935mt30eaj01t' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='tableau' name='textscan.1rpoq8r1c95h7t15auda11m7i231'>
+            <connection class='textscan' directory='/Users/josepena97/Documents/202003Fall/COSC301/Project/course-project-solo_321/data/processed' filename='tableau.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1rpoq8r1c95h7t15auda11m7i231' name='tableau.csv' table='[tableau#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='remision' ordinal='1' />
+            <column datatype='string' name='case' ordinal='2' />
+            <column datatype='date' name='fecha' ordinal='3' />
+            <column datatype='string' name='origen' ordinal='4' />
+            <column datatype='string' name='destino' ordinal='5' />
+            <column datatype='real' name='kilometros' ordinal='6' />
+            <column datatype='string' name='piloto' ordinal='7' />
+            <column datatype='string' name='department' ordinal='8' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1rpoq8r1c95h7t15auda11m7i231' name='tableau.csv' table='[tableau#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='remision' ordinal='1' />
+            <column datatype='string' name='case' ordinal='2' />
+            <column datatype='date' name='fecha' ordinal='3' />
+            <column datatype='string' name='origen' ordinal='4' />
+            <column datatype='string' name='destino' ordinal='5' />
+            <column datatype='real' name='kilometros' ordinal='6' />
+            <column datatype='string' name='piloto' ordinal='7' />
+            <column datatype='string' name='department' ordinal='8' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[tableau.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_CA&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[tableau.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>remision</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[remision]</local-name>
+            <parent-name>[tableau.csv]</parent-name>
+            <remote-alias>remision</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>case</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[case]</local-name>
+            <parent-name>[tableau.csv]</parent-name>
+            <remote-alias>case</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>fecha</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[fecha]</local-name>
+            <parent-name>[tableau.csv]</parent-name>
+            <remote-alias>fecha</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>origen</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[origen]</local-name>
+            <parent-name>[tableau.csv]</parent-name>
+            <remote-alias>origen</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>destino</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[destino]</local-name>
+            <parent-name>[tableau.csv]</parent-name>
+            <remote-alias>destino</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>kilometros</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[kilometros]</local-name>
+            <parent-name>[tableau.csv]</parent-name>
+            <remote-alias>kilometros</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>piloto</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[piloto]</local-name>
+            <parent-name>[tableau.csv]</parent-name>
+            <remote-alias>piloto</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>department</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[department]</local-name>
+            <parent-name>[tableau.csv]</parent-name>
+            <remote-alias>department</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' hidden='true' name='[F1]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='tableau.csv' datatype='table' name='[__tableau_internal_object_id__].[tableau.csv_5FA00C7C48E04F59BB9B3192E67C4DC8]' role='measure' type='quantitative' />
+      <column caption='Case' datatype='string' name='[case]' role='dimension' type='nominal' />
+      <column caption='Department' datatype='string' name='[department]' role='dimension' type='nominal' />
+      <column caption='Destination' datatype='string' name='[destino]' role='dimension' type='nominal' />
+      <column caption='Date' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
+      <column caption='Kilometers' datatype='real' name='[kilometros]' role='measure' type='quantitative' />
+      <column caption='Origin' datatype='string' name='[origen]' role='dimension' type='nominal' />
+      <column caption='Driver' datatype='string' name='[piloto]' role='dimension' type='nominal' />
+      <column caption='Trip_id' datatype='string' name='[remision]' role='dimension' type='nominal' />
+      <column-instance column='[case]' derivation='Count' name='[cnt:case:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[kilometros]' derivation='Sum' name='[sum:kilometros:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[fecha]' derivation='Week' name='[wk:fecha:ok]' pivot='key' type='ordinal' />
+      <group caption='Action (Case)' hidden='true' name='[Action (Case)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[case]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (Case,Destination,Date,Origin,Driver,Trip_id)' hidden='true' name='[Action (Case,Destination,Date,Origin,Driver,Trip_id)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[case]' />
+          <groupfilter function='level-members' level='[destino]' />
+          <groupfilter function='level-members' level='[fecha]' />
+          <groupfilter function='level-members' level='[origen]' />
+          <groupfilter function='level-members' level='[piloto]' />
+          <groupfilter function='level-members' level='[remision]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (Case,WEEK(Date))' hidden='true' name='[Action (Case,WEEK(Date))]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[case]' />
+          <groupfilter function='level-members' level='[wk:fecha:ok]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (Case,WEEK(fecha))' hidden='true' name='[Action (Case,WEEK(fecha))]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[case]' />
+          <groupfilter function='level-members' level='[wk:fecha:ok]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (Driver)' hidden='true' name='[Action (Driver)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[piloto]' />
+        </groupfilter>
+      </group>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' rowDisplayCount='60000' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='tableau.csv' id='tableau.csv_5FA00C7C48E04F59BB9B3192E67C4DC8'>
+            <properties context=''>
+              <relation connection='textscan.1rpoq8r1c95h7t15auda11m7i231' name='tableau.csv' table='[tableau#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='remision' ordinal='1' />
+                  <column datatype='string' name='case' ordinal='2' />
+                  <column datatype='date' name='fecha' ordinal='3' />
+                  <column datatype='string' name='origen' ordinal='4' />
+                  <column datatype='string' name='destino' ordinal='5' />
+                  <column datatype='real' name='kilometros' ordinal='6' />
+                  <column datatype='string' name='piloto' ordinal='7' />
+                  <column datatype='string' name='department' ordinal='8' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <shared-views>
+    <shared-view name='federated.0kqqbh1160d5gy1935mt30eaj01t'>
+      <datasources>
+        <datasource caption='tableau' name='federated.0kqqbh1160d5gy1935mt30eaj01t' />
+      </datasources>
+      <datasource-dependencies datasource='federated.0kqqbh1160d5gy1935mt30eaj01t'>
+        <column caption='Case' datatype='string' name='[case]' role='dimension' type='nominal' />
+        <column-instance column='[case]' derivation='None' name='[none:case:nk]' pivot='key' type='nominal' />
+      </datasource-dependencies>
+      <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]'>
+        <groupfilter function='level-members' level='[none:case:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+      </filter>
+    </shared-view>
+  </shared-views>
+  <actions>
+    <action caption='Filter 1 (generated)' name='[Action1]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='RQuestion3' type='sheet' worksheet='TripRecords' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='RQuestion3' />
+      </command>
+    </action>
+    <action caption='Filter 2 (generated)' name='[Action2]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='RQuestion3' type='sheet' worksheet='Case/Kilometers' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='RQuestion3' />
+      </command>
+    </action>
+    <action caption='Filter 3 (generated)' name='[Action3]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='RQuestion3' type='sheet' worksheet='Km/HQ' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='RQuestion3' />
+      </command>
+    </action>
+    <action caption='Filter 4 (generated)' name='[Action4]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='RQuestion3' type='sheet' worksheet='Drivers' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='RQuestion3' />
+      </command>
+    </action>
+    <action caption='Filter 5 (generated)' name='[Action5]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='RQuestion3' type='sheet' worksheet='Cases/Km Weekly' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='RQuestion3' />
+      </command>
+    </action>
+    <action caption='Filter 6 (generated)' name='[Action6]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='RQuestion1-2' type='sheet' worksheet='WeeklyCases' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='RQuestion1-2' />
+      </command>
+    </action>
+    <action caption='Filter 7 (generated)' name='[Action7]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='RQuestion1-2' type='sheet' worksheet='Cases' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='RQuestion1-2' />
+      </command>
+    </action>
+    <action caption='Filter 8 (generated)' name='[Action8]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='RQuestion1-2' type='sheet' worksheet='TripRecords' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='RQuestion1-2' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='Case/Kilometers'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Case and Kilometers Count&#10;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau' name='federated.0kqqbh1160d5gy1935mt30eaj01t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0kqqbh1160d5gy1935mt30eaj01t'>
+            <column caption='Case' datatype='string' name='[case]' role='dimension' type='nominal' />
+            <column-instance column='[case]' derivation='Count' name='[cnt:case:qk]' pivot='key' type='quantitative' />
+            <column caption='Destination' datatype='string' name='[destino]' role='dimension' type='nominal' />
+            <column caption='Date' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
+            <column caption='Kilometers' datatype='real' name='[kilometros]' role='measure' type='quantitative' />
+            <column-instance column='[case]' derivation='None' name='[none:case:nk]' pivot='key' type='nominal' />
+            <column-instance column='[destino]' derivation='None' name='[none:destino:nk]' pivot='key' type='nominal' />
+            <column-instance column='[origen]' derivation='None' name='[none:origen:nk]' pivot='key' type='nominal' />
+            <column-instance column='[piloto]' derivation='None' name='[none:piloto:nk]' pivot='key' type='nominal' />
+            <column caption='Origin' datatype='string' name='[origen]' role='dimension' type='nominal' />
+            <column caption='Driver' datatype='string' name='[piloto]' role='dimension' type='nominal' />
+            <column-instance column='[kilometros]' derivation='Sum' name='[sum:kilometros:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[fecha]' derivation='Week' name='[wk:fecha:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Driver)]'>
+            <groupfilter function='level-members' level='[piloto]' user:ui-action-filter='[Action4]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:destino:nk]'>
+            <groupfilter function='level-members' level='[none:destino:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:origen:nk]'>
+            <groupfilter function='level-members' level='[none:origen:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='quantitative' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]' included-values='in-range'>
+            <min>1434.0</min>
+            <max>1386609.0</max>
+          </filter>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[wk:fecha:ok]'>
+            <groupfilter function='level-members' level='[wk:fecha:ok]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:origen:nk]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:destino:nk]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[wk:fecha:ok]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Driver)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]' field-type='quantitative' fold='true' scope='rows' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <encodings>
+              <color column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[:Measure Names]' />
+            </encodings>
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <encodings>
+              <color column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[:Measure Names]' />
+            </encodings>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <encodings>
+              <color column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[:Measure Names]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk] + [federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk])</rows>
+        <cols>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]</cols>
+      </table>
+      <simple-id uuid='{5B267C64-0D77-44BD-8D05-5A74AD9FBE4A}' />
+    </worksheet>
+    <worksheet name='Cases'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau' name='federated.0kqqbh1160d5gy1935mt30eaj01t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0kqqbh1160d5gy1935mt30eaj01t'>
+            <column caption='Case' datatype='string' name='[case]' role='dimension' type='nominal' />
+            <column-instance column='[case]' derivation='Count' name='[cnt:case:qk]' pivot='key' type='quantitative' />
+            <column caption='Destination' datatype='string' name='[destino]' role='dimension' type='nominal' />
+            <column caption='Date' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
+            <column-instance column='[case]' derivation='None' name='[none:case:nk]' pivot='key' type='nominal' />
+            <column caption='Origin' datatype='string' name='[origen]' role='dimension' type='nominal' />
+            <column caption='Driver' datatype='string' name='[piloto]' role='dimension' type='nominal' />
+            <column caption='Trip_id' datatype='string' name='[remision]' role='dimension' type='nominal' />
+            <column-instance column='[fecha]' derivation='Week' name='[wk:fecha:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,Destination,Date,Origin,Driver,Trip_id)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action8]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[case]' />
+              <groupfilter function='level-members' level='[destino]' />
+              <groupfilter function='level-members' level='[fecha]' />
+              <groupfilter function='level-members' level='[origen]' />
+              <groupfilter function='level-members' level='[piloto]' />
+              <groupfilter function='level-members' level='[remision]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,WEEK(Date))]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action6]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[case]' />
+              <groupfilter function='level-members' level='[wk:fecha:ok]' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,WEEK(Date))]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,Destination,Date,Origin,Driver,Trip_id)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='height' field='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]' value='20' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk]</rows>
+        <cols>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]</cols>
+      </table>
+      <simple-id uuid='{D32B1BE2-7E9B-4F1B-860D-B7914E470439}' />
+    </worksheet>
+    <worksheet name='Cases/Km Weekly'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Cases and Kilometers by Week</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau' name='federated.0kqqbh1160d5gy1935mt30eaj01t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0kqqbh1160d5gy1935mt30eaj01t'>
+            <column caption='Case' datatype='string' name='[case]' role='dimension' type='nominal' />
+            <column-instance column='[case]' derivation='Count' name='[cnt:case:qk]' pivot='key' type='quantitative' />
+            <column caption='Destination' datatype='string' name='[destino]' role='dimension' type='nominal' />
+            <column caption='Date' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
+            <column caption='Kilometers' datatype='real' name='[kilometros]' role='measure' type='quantitative' />
+            <column-instance column='[case]' derivation='None' name='[none:case:nk]' pivot='key' type='nominal' />
+            <column caption='Origin' datatype='string' name='[origen]' role='dimension' type='nominal' />
+            <column caption='Driver' datatype='string' name='[piloto]' role='dimension' type='nominal' />
+            <column caption='Trip_id' datatype='string' name='[remision]' role='dimension' type='nominal' />
+            <column-instance column='[kilometros]' derivation='Sum' name='[sum:kilometros:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[fecha]' derivation='Week' name='[wk:fecha:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,Destination,Date,Origin,Driver,Trip_id)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action1]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[case]' />
+              <groupfilter function='level-members' level='[destino]' />
+              <groupfilter function='level-members' level='[fecha]' />
+              <groupfilter function='level-members' level='[origen]' />
+              <groupfilter function='level-members' level='[piloto]' />
+              <groupfilter function='level-members' level='[remision]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Driver)]'>
+            <groupfilter function='level-members' level='[piloto]' user:ui-action-filter='[Action4]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Driver)]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,Destination,Date,Origin,Driver,Trip_id)]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]' field-type='quantitative' fold='true' scope='rows' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[:Measure Names]' />
+            </encodings>
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[:Measure Names]' />
+            </encodings>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[:Measure Names]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>([federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk] * ([federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk] + [federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]))</rows>
+        <cols>[federated.0kqqbh1160d5gy1935mt30eaj01t].[wk:fecha:ok]</cols>
+      </table>
+      <simple-id uuid='{CE36E67C-9B4F-4509-8040-A59F33B4A143}' />
+    </worksheet>
+    <worksheet name='Drivers'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Kilometers per Driver</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau' name='federated.0kqqbh1160d5gy1935mt30eaj01t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0kqqbh1160d5gy1935mt30eaj01t'>
+            <column caption='Case' datatype='string' name='[case]' role='dimension' type='nominal' />
+            <column caption='Destination' datatype='string' name='[destino]' role='dimension' type='nominal' />
+            <column caption='Date' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
+            <column caption='Kilometers' datatype='real' name='[kilometros]' role='measure' type='quantitative' />
+            <column-instance column='[case]' derivation='None' name='[none:case:nk]' pivot='key' type='nominal' />
+            <column-instance column='[piloto]' derivation='None' name='[none:piloto:nk]' pivot='key' type='nominal' />
+            <column caption='Origin' datatype='string' name='[origen]' role='dimension' type='nominal' />
+            <column caption='Driver' datatype='string' name='[piloto]' role='dimension' type='nominal' />
+            <column caption='Trip_id' datatype='string' name='[remision]' role='dimension' type='nominal' />
+            <column-instance column='[kilometros]' derivation='Sum' name='[sum:kilometros:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,Destination,Date,Origin,Driver,Trip_id)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action1]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[case]' />
+              <groupfilter function='level-members' level='[destino]' />
+              <groupfilter function='level-members' level='[fecha]' />
+              <groupfilter function='level-members' level='[origen]' />
+              <groupfilter function='level-members' level='[piloto]' />
+              <groupfilter function='level-members' level='[remision]' />
+            </groupfilter>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:piloto:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,Destination,Date,Origin,Driver,Trip_id)]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:piloto:nk]</rows>
+        <cols>[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]</cols>
+      </table>
+      <simple-id uuid='{CD6D9ADA-441C-4A29-82FE-31A05F47D773}' />
+    </worksheet>
+    <worksheet name='Km/HQ'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Distance between Headquaters</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau' name='federated.0kqqbh1160d5gy1935mt30eaj01t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0kqqbh1160d5gy1935mt30eaj01t'>
+            <column caption='Case' datatype='string' name='[case]' role='dimension' type='nominal' />
+            <column caption='Destination' datatype='string' name='[destino]' role='dimension' type='nominal' />
+            <column caption='Date' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
+            <column caption='Kilometers' datatype='real' name='[kilometros]' role='measure' type='quantitative' />
+            <column-instance column='[case]' derivation='None' name='[none:case:nk]' pivot='key' type='nominal' />
+            <column-instance column='[destino]' derivation='None' name='[none:destino:nk]' pivot='key' type='nominal' />
+            <column-instance column='[origen]' derivation='None' name='[none:origen:nk]' pivot='key' type='nominal' />
+            <column caption='Origin' datatype='string' name='[origen]' role='dimension' type='nominal' />
+            <column caption='Driver' datatype='string' name='[piloto]' role='dimension' type='nominal' />
+            <column caption='Trip_id' datatype='string' name='[remision]' role='dimension' type='nominal' />
+            <column-instance column='[kilometros]' derivation='Sum' name='[sum:kilometros:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,Destination,Date,Origin,Driver,Trip_id)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action1]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[case]' />
+              <groupfilter function='level-members' level='[destino]' />
+              <groupfilter function='level-members' level='[fecha]' />
+              <groupfilter function='level-members' level='[origen]' />
+              <groupfilter function='level-members' level='[piloto]' />
+              <groupfilter function='level-members' level='[remision]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Driver)]'>
+            <groupfilter function='level-members' level='[piloto]' user:ui-action-filter='[Action4]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='quantitative' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]' included-values='in-range'>
+            <min>1.0</min>
+            <max>130152.0</max>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:destino:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Driver)]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,Destination,Date,Origin,Driver,Trip_id)]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>([federated.0kqqbh1160d5gy1935mt30eaj01t].[none:origen:nk] / [federated.0kqqbh1160d5gy1935mt30eaj01t].[none:destino:nk])</rows>
+        <cols>[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]</cols>
+      </table>
+      <simple-id uuid='{EA8F5EA2-8859-47D3-B20B-6A90FA94BB0F}' />
+    </worksheet>
+    <worksheet name='TripRecords'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau' name='federated.0kqqbh1160d5gy1935mt30eaj01t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0kqqbh1160d5gy1935mt30eaj01t'>
+            <column caption='Case' datatype='string' name='[case]' role='dimension' type='nominal' />
+            <column caption='Destination' datatype='string' name='[destino]' role='dimension' type='nominal' />
+            <column caption='Date' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
+            <column-instance column='[case]' derivation='None' name='[none:case:nk]' pivot='key' type='nominal' />
+            <column-instance column='[destino]' derivation='None' name='[none:destino:nk]' pivot='key' type='nominal' />
+            <column-instance column='[fecha]' derivation='None' name='[none:fecha:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[origen]' derivation='None' name='[none:origen:nk]' pivot='key' type='nominal' />
+            <column-instance column='[piloto]' derivation='None' name='[none:piloto:nk]' pivot='key' type='nominal' />
+            <column-instance column='[remision]' derivation='None' name='[none:remision:nk]' pivot='key' type='nominal' />
+            <column caption='Origin' datatype='string' name='[origen]' role='dimension' type='nominal' />
+            <column caption='Driver' datatype='string' name='[piloto]' role='dimension' type='nominal' />
+            <column caption='Trip_id' datatype='string' name='[remision]' role='dimension' type='nominal' />
+            <column-instance column='[fecha]' derivation='Week' name='[wk:fecha:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case)]'>
+            <groupfilter function='level-members' level='[case]' user:ui-action-filter='[Action7]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,WEEK(Date))]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action6]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[case]' />
+              <groupfilter function='level-members' level='[wk:fecha:ok]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Driver)]'>
+            <groupfilter function='level-members' level='[piloto]' user:ui-action-filter='[Action4]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <_.fcp.SingleValuePerNestSorting.true...single-value-per-nest-shelf-sorts>
+            <single-value-per-nest-shelf-sort dimension-to-sort='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:piloto:nk]' direction='ASC' measure-to-sort-by='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:piloto:nk]' shelf='rows' />
+          </_.fcp.SingleValuePerNestSorting.true...single-value-per-nest-shelf-sorts>
+          <slices>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Driver)]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,WEEK(Date))]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.0kqqbh1160d5gy1935mt30eaj01t].[none:remision:nk] / ([federated.0kqqbh1160d5gy1935mt30eaj01t].[none:piloto:nk] / ([federated.0kqqbh1160d5gy1935mt30eaj01t].[none:origen:nk] / ([federated.0kqqbh1160d5gy1935mt30eaj01t].[none:destino:nk] / ([federated.0kqqbh1160d5gy1935mt30eaj01t].[none:fecha:ok] / [federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk])))))</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{D22FF437-CDA4-48C4-AE38-F9E6E5C891F7}' />
+    </worksheet>
+    <worksheet name='WeeklyCases'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau' name='federated.0kqqbh1160d5gy1935mt30eaj01t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0kqqbh1160d5gy1935mt30eaj01t'>
+            <column caption='Case' datatype='string' name='[case]' role='dimension' type='nominal' />
+            <column-instance column='[case]' derivation='Count' name='[cnt:case:qk]' pivot='key' type='quantitative' />
+            <column caption='Destination' datatype='string' name='[destino]' role='dimension' type='nominal' />
+            <column caption='Date' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
+            <column-instance column='[case]' derivation='None' name='[none:case:nk]' pivot='key' type='nominal' />
+            <column caption='Origin' datatype='string' name='[origen]' role='dimension' type='nominal' />
+            <column caption='Driver' datatype='string' name='[piloto]' role='dimension' type='nominal' />
+            <column caption='Trip_id' datatype='string' name='[remision]' role='dimension' type='nominal' />
+            <column-instance column='[fecha]' derivation='Week' name='[wk:fecha:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case)]'>
+            <groupfilter function='level-members' level='[case]' user:ui-action-filter='[Action7]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,Destination,Date,Origin,Driver,Trip_id)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action8]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[case]' />
+              <groupfilter function='level-members' level='[destino]' />
+              <groupfilter function='level-members' level='[fecha]' />
+              <groupfilter function='level-members' level='[origen]' />
+              <groupfilter function='level-members' level='[piloto]' />
+              <groupfilter function='level-members' level='[remision]' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case,Destination,Date,Origin,Driver,Trip_id)]</column>
+            <column>[federated.0kqqbh1160d5gy1935mt30eaj01t].[Action (Case)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='1' field='[federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk]' field-type='quantitative' fold='true' scope='rows' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#e6e6e6' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk]' y-index='1'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#e15759' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk] * ([federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk] + [federated.0kqqbh1160d5gy1935mt30eaj01t].[cnt:case:qk]))</rows>
+        <cols>[federated.0kqqbh1160d5gy1935mt30eaj01t].[wk:fecha:ok]</cols>
+      </table>
+      <simple-id uuid='{E1C08069-5C9F-4EB2-B144-2BB00C5007F4}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='Introduction'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
+          <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='34615' id='3' w='60362' x='467' y='810'>
+            <formatted-text>
+              <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Introduction to Coca-Cola vs Logistic Company Dataset</run>
+              <run>Æ&#10;&#10;</run>
+              <run fontcolor='#000000' fontname='Benton Sans Book'>This database is collected from two different accounting systems, one made by Coca-Cola and one made by a logistic company. Every week, both companies make a spreadsheet with records of trips from a warehouse to another warehouse. Furthermore, Coca-Cola has an automated system to make the records, and the logistic company makes human typed records. Based on this difference, my research question is:</run>
+              <run fontalignment='1'>Æ&#10;</run>
+              <run fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' italic='true'>How efficient and correct is an automated dataset system versus a human typed dataset?</run>
+              <run fontalignment='1'>Æ&#10;</run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#000000' fontname='Benton Sans Book'>In the business world, experience and learning curve is something natural for corporations. If there are errors in processes and activities within a company, this mistake will improve as the experience or learning curve advances. Hence my second question is:</run>
+              <run fontalignment='1'>Æ&#10;</run>
+              <run fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' italic='true'>Can we observe improvement of errors made historically?</run>
+              <run fontalignment='1'>Æ&#10;</run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#000000' fontname='Benton Sans Book'>Keeping track of dataset is important for a business so my third question is:</run>
+              <run fontalignment='1'>Æ&#10;</run>
+              <run fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' italic='true'>How can a dashboard keep track of activities and errors made historically?</run>
+              <run fontalignment='1'>Æ&#10;</run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#000000' fontname='Benton Sans Book'>During the Milestone 1-3 I classified the errors withing three different cases:</run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#000000' fontname='Benton Sans Book'>Case 1: Coca-Cola and the logistic company has a record of the trip.</run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#000000' fontname='Benton Sans Book'>Case 2: Only Coca-Cola made a record of the trip.</run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#000000' fontname='Benton Sans Book'>Case 3: Only the logistic company has a record of the trip.</run>
+              <run>Æ&#10;&#10;</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='63765' id='5' name='TripRecords' w='99066' x='467' y='35425'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone _.fcp.SetMembershipControl.false...type='bitmap' _.fcp.SetMembershipControl.true...type-v2='bitmap' forceUpdate='true' h='34615' id='6' is-scaled='1' param='/Users/josepena97/Documents/202003Fall/COSC301/Project/course-project-solo_321/images/logistic.jpg' w='38704' x='60829' y='810'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='12' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98380' id='11' param='vert' w='99066' x='467' y='810'>
+                <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='34615' id='3' w='60362' x='467' y='810'>
+                  <formatted-text>
+                    <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>Introduction to Coca-Cola vs Logistic Company Dataset</run>
+                    <run>Æ&#10;&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book'>This database is collected from two different accounting systems, one made by Coca-Cola and one made by a logistic company. Every week, both companies make a spreadsheet with records of trips from a warehouse to another warehouse. Furthermore, Coca-Cola has an automated system to make the records, and the logistic company makes human typed records. Based on this difference, my research question is:</run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' italic='true'>How efficient and correct is an automated dataset system versus a human typed dataset?</run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book'>In the business world, experience and learning curve is something natural for corporations. If there are errors in processes and activities within a company, this mistake will improve as the experience or learning curve advances. Hence my second question is:</run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' italic='true'>Can we observe improvement of errors made historically?</run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book'>Keeping track of dataset is important for a business so my third question is:</run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run fontalignment='1' fontcolor='#000000' fontname='Benton Sans Book' italic='true'>How can a dashboard keep track of activities and errors made historically?</run>
+                    <run fontalignment='1'>Æ&#10;</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book'>During the Milestone 1-3 I classified the errors withing three different cases:</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book'>Case 1: Coca-Cola and the logistic company has a record of the trip.</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book'>Case 2: Only Coca-Cola made a record of the trip.</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book'>Case 3: Only the logistic company has a record of the trip.</run>
+                    <run>Æ&#10;&#10;</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='bitmap' _.fcp.SetMembershipControl.true...type-v2='bitmap' fixed-size='269' forceUpdate='true' h='34615' id='6' is-fixed='true' is-scaled='1' param='/Users/josepena97/Documents/202003Fall/COSC301/Project/course-project-solo_321/images/logistic.jpg' w='38704' x='60829' y='810'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='63765' id='5' is-fixed='true' name='TripRecords' w='99066' x='467' y='35425'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{62C09323-8D90-4970-97DC-33D8AA51A43F}' />
+    </dashboard>
+    <dashboard name='RQuestion1-2'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98380' id='9' param='horz' w='99066' x='467' y='810'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='98380' id='7' w='99066' x='467' y='810'>
+              <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='35627' id='3' w='49533' x='467' y='810'>
+                <formatted-text>
+                  <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>1. How efficient and correct is an automated dataset system versus a human typed dataset?</run>
+                  <run>Æ&#10;&#10;</run>
+                  <run fontcolor='#000000'>During the Milestone 1-3 I classified the errors withing three different cases:</run>
+                  <run>Æ&#10;</run>
+                  <run fontcolor='#000000'>Case 1: Coca-Cola and the logistic company has a record of the trip.</run>
+                  <run>Æ&#10;</run>
+                  <run fontcolor='#000000'>Case 2: Only Coca-Cola made a record of the trip.</run>
+                  <run>Æ&#10;</run>
+                  <run fontcolor='#000000'>Case 3: Only the logistic company has a record of the trip.</run>
+                  <run>Æ&#10;&#10;</run>
+                  <run fontcolor='#000000'>First, we can see a 93% match (Case 1) between the datasets from Coca-Cola and the logistic company. By comparing both activities between the different companies, we can conclude that the automated system records will have better performance and consistency than human typed records. In Case 2, only Coca-Cola record 6% of the trips and providing all the necessary information. On the other hand, only the logistic company (case 3) recorded 1% of the trips without providing the information required. In conclusion, companies that produce dataset must implement a type of automated system to perform consistently and precisely.</run>
+                  <run>Æ&#10;&#10;</run>
+                  <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>2. Can we observe improvement of errors made historically?</run>
+                  <run>Æ&#10;</run>
+                  <run fontcolor='#000000'>By looking at a weekly historic record, we can affirm that there are fewer errors as the operation continues. In one year, we can observe three spikes of Case 2, the first two spikes were back to back, and the last increase did not have any continuation. On the other hand, Case 1 drops are because the logistic company stops keeping track and are compensated by Case 2 increases. In short, we can affirm that as the operation learning and experience curve improves, there are fewer record errors and better performance.</run>
+                </formatted-text>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='62753' id='5' name='WeeklyCases' w='49533' x='50000' y='36437'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='62753' id='10' name='Cases' w='49533' x='467' y='36437'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='35627' id='11' name='TripRecords' w='49533' x='50000' y='810'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='950' minheight='950' sizing-mode='vscroll' />
+          <zones>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='17' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98380' id='16' param='vert' w='99066' x='467' y='810'>
+                <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='35627' id='3' w='49533' x='467' y='810'>
+                  <formatted-text>
+                    <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>1. How efficient and correct is an automated dataset system versus a human typed dataset?</run>
+                    <run>Æ&#10;&#10;</run>
+                    <run fontcolor='#000000'>During the Milestone 1-3 I classified the errors withing three different cases:</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000'>Case 1: Coca-Cola and the logistic company has a record of the trip.</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000'>Case 2: Only Coca-Cola made a record of the trip.</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000'>Case 3: Only the logistic company has a record of the trip.</run>
+                    <run>Æ&#10;&#10;</run>
+                    <run fontcolor='#000000'>First, we can see a 93% match (Case 1) between the datasets from Coca-Cola and the logistic company. By comparing both activities between the different companies, we can conclude that the automated system records will have better performance and consistency than human typed records. In Case 2, only Coca-Cola record 6% of the trips and providing all the necessary information. On the other hand, only the logistic company (case 3) recorded 1% of the trips without providing the information required. In conclusion, companies that produce dataset must implement a type of automated system to perform consistently and precisely.</run>
+                    <run>Æ&#10;&#10;</run>
+                    <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>2. Can we observe improvement of errors made historically?</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000'>By looking at a weekly historic record, we can affirm that there are fewer errors as the operation continues. In one year, we can observe three spikes of Case 2, the first two spikes were back to back, and the last increase did not have any continuation. On the other hand, Case 1 drops are because the logistic company stops keeping track and are compensated by Case 2 increases. In short, we can affirm that as the operation learning and experience curve improves, there are fewer record errors and better performance.</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='277' h='35627' id='11' is-fixed='true' name='TripRecords' w='49533' x='50000' y='810'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='62753' id='10' is-fixed='true' name='Cases' w='49533' x='467' y='36437'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='62753' id='5' is-fixed='true' name='WeeklyCases' w='49533' x='50000' y='36437'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{63340D67-1687-4C8B-8864-45624F5D567F}' />
+    </dashboard>
+    <dashboard name='RQuestion3'>
+      <style />
+      <size sizing-mode='automatic' />
+      <datasources>
+        <datasource caption='tableau' name='federated.0kqqbh1160d5gy1935mt30eaj01t' />
+      </datasources>
+      <datasource-dependencies datasource='federated.0kqqbh1160d5gy1935mt30eaj01t'>
+        <column caption='Case' datatype='string' name='[case]' role='dimension' type='nominal' />
+        <column caption='Date' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
+        <column caption='Kilometers' datatype='real' name='[kilometros]' role='measure' type='quantitative' />
+        <column-instance column='[case]' derivation='None' name='[none:case:nk]' pivot='key' type='nominal' />
+        <column-instance column='[piloto]' derivation='None' name='[none:piloto:nk]' pivot='key' type='nominal' />
+        <column caption='Driver' datatype='string' name='[piloto]' role='dimension' type='nominal' />
+        <column-instance column='[kilometros]' derivation='Sum' name='[sum:kilometros:qk]' pivot='key' type='quantitative' />
+        <column-instance column='[fecha]' derivation='Week' name='[wk:fecha:ok]' pivot='key' type='ordinal' />
+      </datasource-dependencies>
+      <zones>
+        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='77226' id='21' param='horz' w='99066' x='467' y='21964'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='77226' id='19' w='99066' x='467' y='21964'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='63086' id='14' param='horz' w='99066' x='467' y='36104'>
+                <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='63086' id='12' w='99066' x='467' y='36104'>
+                  <zone h='31545' id='5' name='Km/HQ' w='49532' x='467' y='36104'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone h='31541' id='7' name='Cases/Km Weekly' w='49534' x='49999' y='67649'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone h='31541' id='8' name='Drivers' w='49532' x='467' y='67649'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone h='31545' id='9' name='Case/Kilometers' w='49534' x='49999' y='36104'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+              </zone>
+              <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='7070' id='15' mode='checkdropdown' name='Case/Kilometers' param='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:piloto:nk]' values='database' w='52194' x='467' y='21964'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='7070' id='16' name='Case/Kilometers' param='[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]' values='database' w='99066' x='467' y='29034'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='7070' id='17' mode='checkdropdown' name='Case/Kilometers' param='[federated.0kqqbh1160d5gy1935mt30eaj01t].[wk:fecha:ok]' values='database' w='46872' x='52661' y='21964'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='21154' id='27' w='26095' x='467' y='810'>
+            <formatted-text>
+              <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>How can a dashboard keep track of activities and errors made historically?</run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#000000'>By keeping track of the number of trips, kilometers per trip, drivers, and records, we can keep a constant track of the activities that might produce historical errors.</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='21154' id='28' name='TripRecords' w='46177' x='44016' y='810'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone _.fcp.SetMembershipControl.false...type='bitmap' _.fcp.SetMembershipControl.true...type-v2='bitmap' h='21154' id='18' is-scaled='1' param='/Users/josepena97/Documents/202003Fall/COSC301/Project/course-project-solo_321/images/cocacola.png' w='17454' x='26562' y='810'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' fixed-size='138' h='21154' id='22' is-fixed='true' name='Case/Kilometers' param='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]' values='database' w='9340' x='90193' y='810'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='1700' minheight='1700' sizing-mode='vscroll' />
+          <zones>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='34' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98380' id='33' param='vert' w='99066' x='467' y='810'>
+                <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='21154' id='27' w='26095' x='467' y='810'>
+                  <formatted-text>
+                    <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>How can a dashboard keep track of activities and errors made historically?</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000'>By keeping track of the number of trips, kilometers per trip, drivers, and records, we can keep a constant track of the activities that might produce historical errors.</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='bitmap' _.fcp.SetMembershipControl.true...type-v2='bitmap' fixed-size='162' h='21154' id='18' is-fixed='true' is-scaled='1' param='/Users/josepena97/Documents/202003Fall/COSC301/Project/course-project-solo_321/images/cocacola.png' w='17454' x='26562' y='810'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='162' h='21154' id='28' is-fixed='true' name='TripRecords' w='46177' x='44016' y='810'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='244' h='31545' id='5' is-fixed='true' name='Km/HQ' w='49532' x='467' y='36104'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='7070' id='15' mode='checkdropdown' name='Case/Kilometers' param='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:piloto:nk]' values='database' w='52194' x='467' y='21964'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='7070' id='16' name='Case/Kilometers' param='[federated.0kqqbh1160d5gy1935mt30eaj01t].[sum:kilometros:qk]' values='database' w='99066' x='467' y='29034'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='7070' id='17' mode='checkdropdown' name='Case/Kilometers' param='[federated.0kqqbh1160d5gy1935mt30eaj01t].[wk:fecha:ok]' values='database' w='46872' x='52661' y='21964'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' fixed-size='138' h='21154' id='22' mode='checkdropdown' name='Case/Kilometers' param='[federated.0kqqbh1160d5gy1935mt30eaj01t].[none:case:nk]' values='database' w='9340' x='90193' y='810'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='244' h='31545' id='9' is-fixed='true' name='Case/Kilometers' w='49534' x='49999' y='36104'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='245' h='31541' id='8' is-fixed='true' name='Drivers' w='49532' x='467' y='67649'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='245' h='31541' id='7' is-fixed='true' name='Cases/Km Weekly' w='49534' x='49999' y='67649'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{D35C6B9A-AC04-45E8-A933-218BCA5DEE78}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='30'>
+    <window class='dashboard' name='Introduction'>
+      <viewpoints>
+        <viewpoint name='TripRecords'>
+          <zoom type='fit-width' />
+        </viewpoint>
+      </viewpoints>
+      <active id='3' />
+      <simple-id uuid='{D508C3C4-4B87-409D-928C-0C34D042561C}' />
+    </window>
+    <window class='dashboard' name='RQuestion1-2'>
+      <viewpoints>
+        <viewpoint name='Cases'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='TripRecords' />
+        <viewpoint name='WeeklyCases'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='3' />
+      <simple-id uuid='{591D2FA0-CA6B-47D8-ADF4-6D9B168B2ED2}' />
+    </window>
+    <window class='dashboard' maximized='true' name='RQuestion3'>
+      <viewpoints>
+        <viewpoint name='Case/Kilometers'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Cases/Km Weekly'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Drivers' />
+        <viewpoint name='Km/HQ' />
+        <viewpoint name='TripRecords' />
+      </viewpoints>
+      <active id='22' />
+      <simple-id uuid='{52702144-222A-41C1-9374-60A272559725}' />
+    </window>
+    <window class='worksheet' name='TripRecords'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{93D13670-461C-4750-AEB2-B7AF8F6B61FB}' />
+    </window>
+    <window class='worksheet' name='Case/Kilometers'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='1' param='[federated.0kqqbh1160d5gy1935mt30eaj01t].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F5A8198D-5613-43D6-B8A5-122A1E17CF73}' />
+    </window>
+    <window class='worksheet' name='Cases/Km Weekly'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='1' param='[federated.0kqqbh1160d5gy1935mt30eaj01t].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{928FB4DB-02D3-42B3-AA16-FFA50C820C9A}' />
+    </window>
+    <window class='worksheet' name='Drivers'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{39A79EA6-EEF3-408F-9AC8-A5084DCD372C}' />
+    </window>
+    <window class='worksheet' name='Km/HQ'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{FF8F39F9-DCDF-43B2-B84E-922E2C0744DD}' />
+    </window>
+    <window class='worksheet' name='WeeklyCases'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{519BB86F-4EF7-483F-8FF5-0EA758DF6E3D}' />
+    </window>
+    <window class='worksheet' name='Cases'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{E3B53A2B-2E7B-4ED2-A92A-C0DDE31188DF}' />
+    </window>
+  </windows>
+</workbook>
