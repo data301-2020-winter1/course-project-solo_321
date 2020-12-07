@@ -16,3 +16,6 @@ CocaCola is a corporation that has many warehouses worldwide. Inside their opera
 ## Team Members
 
 - Person 1: I am a 4th year management student specializing in Accounting.
+
+## DashBoard Presentation (Youtube link):
+https://youtu.be/-gzWTlh1cPA
